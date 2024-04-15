@@ -1,6 +1,6 @@
 # Sobre mi
 
-![fotoCe]: (../images/foto.jpg)
+![fotoCe]:(../images/foto.jpg)
 
 **Un poquito sobre mi**
 
