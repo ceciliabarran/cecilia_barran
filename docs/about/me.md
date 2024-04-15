@@ -1,6 +1,7 @@
 # Sobre mi
 
-![fotoCe]:(../images/foto.jpg)
+![fotoCe]:(Ce:User/User/Desktop/EFDI/cecilia_barran/docs/images/foto.JPG)
+
 
 **Un poquito sobre mi**
 
