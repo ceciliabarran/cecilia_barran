@@ -1,6 +1,6 @@
 # Sobre mi
 
-![fotoCe]:(images/foto.JPG)
+![foto]:(images/foto.JPG)
 
 
 
