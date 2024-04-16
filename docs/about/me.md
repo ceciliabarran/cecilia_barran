@@ -1,6 +1,6 @@
 # Sobre mi
 
-![foto]:(images/foto.JPG)
+![]:(images/foto.JPG)
 
 
 
