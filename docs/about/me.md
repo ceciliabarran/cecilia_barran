@@ -20,6 +20,8 @@ Soy mamá de dos niños de 7 y 5 años, el desafío más intenso y hermoso que m
 Recientemente nos mudamos a Rivera por temas laborales y tuve la oportunidad de dar clases en UTU, con lo cual me llevó a replantear mi formación.
 
 Con mis pequeños más independientes, me encuentro con muchas ganas de crear nuevos proyectos y expandir mis conocimientos profesionales es por ese motivo que *soy parte* de **EFDI 2024**. 
+
+No tengo un emprendimiento aun, estoy *investigando*, relevando necesidades y buscando problemas, repensando **mis intereses y mis capacidades** para aprovechar al máximo esta gran oprtunidad que me de EFDI. 
  
 Los invito a mi web **[my website](https://community.emergentfutures.io/courses/5566525/content)** 
 
