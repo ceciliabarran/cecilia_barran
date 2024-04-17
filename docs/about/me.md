@@ -14,6 +14,7 @@ Nos mudamos a Montevideo en 2008 para terminar la Facultad en la Udelar y realiz
 Me recibí de Arquitecta en 2014, e ingresé al Ejército unos meses antes. 
 
 Soy mamá de dos niños de 7 y 5 años, el desafío más intenso y hermoso que me dió la vida. 
+
 ![](../images/peques2.JPG)
 
 Recientemente nos mudamos a Rivera por temas laborales y tuve la oportunidad de dar clases en UTU, con lo cual me llevó a replantear mi formación.
