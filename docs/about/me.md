@@ -1,11 +1,9 @@
-##  Sobre mi
+
 
 ![](../images/foto.JPG)
 
 
  
-**Un poquito sobre mi**
-
 Nací en Paysandú en 1986, crecí en una familia pequeña, trabajadora y llena de amor.
 
 Me mude a Salto en 2004 a cursar los primeros años de la Facultad de Arquitectura en la Regional Norte, donde conocí a mi compañero de vida. 
