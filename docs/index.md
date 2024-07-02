@@ -3,7 +3,7 @@
 ![][desktop/EFDI/foto]
 
 Soy Cecilia, este repo servirá para registrar mi proceso en EFDI. 
-Bienvenido/as!
+Bienvenidos/as!
 
 
 [desktop/EFDI/foto]: ../images/foto.jpg
