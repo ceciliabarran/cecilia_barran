@@ -3,7 +3,7 @@
 ![](../images/foto.JPG)
 
 
-
+ 
 **Un poquito sobre mi**
 
 Nací en Paysandú en 1986, crecí en una familia pequeña, trabajadora y llena de amor.
