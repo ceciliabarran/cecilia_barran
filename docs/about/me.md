@@ -1,4 +1,4 @@
-# Sobre mi
+##  Sobre mi
 
 ![](../images/foto.JPG)
 
