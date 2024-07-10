@@ -1,0 +1,78 @@
+---
+hide:
+    - toc
+---
+
+# MT04
+## Electronica y Programación *Arduino IDE* con Josep
+
+Esta semana aprendimos sobre la electrónica y programación recibimos el kit de Arduino y comenzamos a experimentar con INPUTS y OUTPUTS.
+
+![](../images/MT04/peques.JPG)
+
+## Desafío MT04 con Josep
+*Leer mínimo dos INPUTS*
+*Actuar mínimo dos OUTPUTS*
+Utilizar Tinkercad Electronics y kit de Arduino
+
+Empece revisando las clases y los tutoriales, elegí el programa Tinkercad para experimetar con los circuitos, ya que este tema es nuevo para mi. 
+Me fue de gran ayuda un tutorial paso a paso de Arduino donde explicaban desde cero todo los componentes del kit y realizaban los circuitos basicos. 
+Me resultó de gran ayuda![curso arduino en español]<a href="https://www.youtube.com/watch?v=gx5yFvVDUsY&list=PLyLh25DppBIe40j3VBAslnVfs4Pz-B3ZB" target="_blank">gracias!</a>
+
+
+![](../images/MT04/esquema.JPG)
+
+## LED
+En TINKERCAD probé el led inicialmete con encendido y apagado mediante pin digital, probando valores de tiempo de 1000ms a 50ms. 
+
+![](../images/MT04/1.JPG)
+
+En el programa Arduino me guié con la libreria utilizando *Blink* :
+
+![](../images/MT04/1programaa.JPG)
+
+![](../images/MT04/1arduino.JPG)
+
+Utilicé la *breadboard* para probar las conexiones y entender como estan conectadas, las diferencias entre riel, filas y columnas. 
+
+ejercicio LED [tiempo del LED 50]
+    
+   ![video]<a href="https://youtube.com/shorts/uBsUlIbIJyY?feature=share"target="_blank">ver!</a>
+
+## LED + PULSADOR
+Sumé un pulsador al circuito de la led realizado. 
+La luz Led actua como la salida de información y se acciona cuando el pulsador es encendido.
+
+Primero lo probé en Tinkercad:
+
+![](../images/MT04/1A.JPG)
+
+pero no me queda claro como se conecta fisicamente las piezas del modelo asique trabaje con la breadboard,la inclui en el modelo para realizar las conecciones y probar con el simulador si funcionaba.
+
+![](../images/MT04/1b.JPG)
+
+Una vez que funcionó el modelo pase el código para Arduino:
+
+![](../images/MT04/2codigo.JPG)
+
+Armé el circuito y lo concté al programa:
+![video]<a href="https://youtube.com/shorts/IAker6wi1C0?feature=share"target="_blank">ver!</a> 
+
+Me cuesta leer las resistencias, los colores no son tan claros. 
+
+![](../images/MT04/lectura%20de%20resistencia.JPG)
+
+## SENSOR DE DISTANCIA
+
+Intenté con el sensor de distancia en tinkercad:
+
+ ![](../images/MT04/sensor%20de%20distancia.JPG)
+
+ El modelo de sensor era distinto al que trae el kit. Siguiendo el ejemplo que realizó Jusep en clase conecte el sensor y copie el código al programa.
+
+ ## SENSOR DE TEMPERATURA Y DE HUMEDAD
+
+Realice un taller de arduino que brindaron en ETSR (UTU de Rivera) y logré armar el sensor de Temperatura y de humedad:
+
+ ![](../images/MT04/STH.JPG)
+ 
