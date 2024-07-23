@@ -13,10 +13,9 @@ hide:
 
 <a href="(../archivos/CECILIA_BARRAN_MT03_CORTE.rld)" >Descargar <span>archivo rdl</span> </a>
  
-<a href="[](../archivos/)" download="gcode">
- Descargar <span>archivo G CODE</span> </a>
 
- <a download="g code" href="Cecilia_Barran.gcode">Descargar archivo</a>
+
+ <a download="archivos" href="Cecilia_Barran.gcode">Descargar archivo g code</a>
 
 
 
