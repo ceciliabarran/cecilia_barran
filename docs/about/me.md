@@ -1,6 +1,6 @@
 
 
-![](../images/foto.JPG)
+![](../images/yo.JPG)
 
 
  
