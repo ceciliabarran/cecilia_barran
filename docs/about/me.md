@@ -19,9 +19,9 @@ Recientemente nos mudamos a Rivera por temas laborales y tuve la oportunidad de 
 
 Con mis pequeños más independientes, me encuentro con muchas ganas de crear nuevos proyectos y expandir mis conocimientos profesionales es por ese motivo que *soy parte* de **EFDI 2024**. 
 
-No tengo un emprendimiento aun, estoy *investigando*, relevando necesidades y buscando problemas, repensando **mis intereses y mis capacidades** para aprovechar al máximo esta gran oprtunidad que me de EFDI. 
+Mi lucha consiste en regenerar suelo "vivo" en la ciudad. Diseñar como lo hace la naturaleza es mi desafío.  
  
-Los invito a mi web **[my website](https://community.emergentfutures.io/courses/5566525/content)** 
+Los invito a mi web... 
 
 
 [foto]: ../images/foto.jpg 
