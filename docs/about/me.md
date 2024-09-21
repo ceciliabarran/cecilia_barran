@@ -19,7 +19,7 @@ Recientemente nos mudamos a Rivera por temas laborales y tuve la oportunidad de 
 
 Con mis pequeños más independientes, me encuentro con muchas ganas de crear nuevos proyectos y expandir mis conocimientos profesionales es por ese motivo que *soy parte* de **EFDI 2024**. 
 
-Mi lucha consiste en regenerar suelo "vivo" en la ciudad. Diseñar como lo hace la naturaleza es mi desafío.  
+<font color="green">Mi lucha consiste en regenerar suelo "vivo" en la ciudad. Diseñar como lo hace la naturaleza es mi desafío.</font>  
  
 Los invito a mi web... 
 
