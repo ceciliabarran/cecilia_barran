@@ -616,6 +616,7 @@ Los <strong>PROTOCOLOS</strong> son un conjunto de NORMAS sobre formato de mensa
 <p><strong>MQTT</strong> es un protocolo que utiliza un modelo de publicación/ suscripción basado en eventos para poder enviar mensajes a los clientes. </p>
 <p><img alt="" src="../../images/MT06/1.JPG" /> </p>
 <p>La comunicación pasa por un punto central llamado &ldquo;broker&rdquo;, que se encarga de gestionar el envío de mensajes entre emisores y receptores. Cada cliente, al enviar un mensaje, lo hace incluyendo un <em>topic</em> en el mensaje. <strong>Cada cliente que quiere recibir un mensaje se suscribe a un determinado topic del broker</strong> y éste le envía los mensajes correspondientes.</p>
+<p>Broker es un servidos donde se puede publicar mensajes o subscribirte a un tópico.</p>
 <p><img alt="" src="../../images/MT06/2.JPG" /></p>
 <h2 id="desafio-mt06">Desafío MT06<a class="headerlink" href="#desafio-mt06" title="Permanent link">&para;</a></h2>
 <p>Siguiendo el ejercicio realizado en la clase con Jusep, descargué e INSTALÉ la placa ESP32. Para poder programarla es necesario instalarla en Arduino. </p>
@@ -631,11 +632,12 @@ Los <strong>PROTOCOLOS</strong> son un conjunto de NORMAS sobre formato de mensa
 <p><img alt="" src="../../images/MT06/instalandoESP32d.JPG" /></p>
 <p>En &ldquo;tools&rdquo;, &ldquo;boards&rdquo;, elegimos la más básica: </p>
 <p><img alt="" src="../../images/MT06/instalandoESP32e.JPG" /></p>
-<p>Tercer paso: Instalar las Librerias:</p>
+<p>Tercer paso: Instalar las Librerias:
+busco &ldquo;pubsubclient&rdquo;</p>
 <p><img alt="" src="../../images/MT06/instalandoESP32f.JPG" />   </p>
-<p>Estamos prontos para copiar el código del WOKWI del ejercicio y pegarlo en Arduino para verificar que no hayan errores. </p>
+<p>Estamos prontos para copiar el código del WOKWI del ejercicio y pegarlo en Arduino.  </p>
 <p><img alt="" src="../../images/MT06/W1.JPG" /> </p>
-<p>Compilamos para verificar, demora unos minutos. </p>
+<p>Compilamos para verificar que el código no tenga errores, demora unos minutos. </p>
 <p><img alt="" src="../../images/MT06/instalandoESP32g.JPG" /> </p>
 <p>Ejercicio 1:</p>
 <p>Ejercicio 2</p>
