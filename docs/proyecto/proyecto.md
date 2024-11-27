@@ -18,8 +18,8 @@ https://miro.com/app/board/uXjVKAVYfr8=/
   *Si bien Uruguay es un país pequeño en cuanto a superficie y población, posee grandes extensiones de áreas rurales. Se encuentra íntegramente en la zona templada y sus paisajes se caracterizan por presentar  un mosaico de ambientes diferentes (bosques, humedales, lagunas, etc.) en una matriz de pradera y una densa red hidrográfica.*
 
 
-  SNAP-Proyecto Fortalecimiento del Proceso de Implementación del Sistema Nacional de Áreas Protegidas de Uruguay. Importancia global
-  de la biodiversidad del Uruguay, Junio 2007.
+        **SNAP-Proyecto Fortalecimiento del Proceso de Implementación del Sistema Nacional de Áreas Protegidas de Uruguay. Importancia global
+  de la biodiversidad del Uruguay, Junio 2007.**
 
 
   Su población es de 3.286.314 personas (según INE) Y **habita en un 93,4 % en ciudades**, y la tendencia creciente a la urbanización se mantiene. La población, las actividades y las infraestructuras se concentran predominantemente en áreas expuestas a riesgos climáticos.
@@ -29,7 +29,8 @@ https://miro.com/app/board/uXjVKAVYfr8=/
   El Plan Nacional de Adaptación en Ciudades tiene como objetivo general reducir la vulnerabilidad de las comunidades frente a los efectos de la variabilidad y el cambio climático mediante la creación
 de capacidades de adaptación y resiliencia en ciudades, infraestructuras y entornos urbanos, integrando medidas de adaptación en las políticas, los programas y las actividades correspondientes, tanto nuevos como existentes, y en procesos y estrategias de planificación nacionales y locales, con el fin de mejorar la calidad de vida de la población.
  El horizonte temporal del PNA Ciudades alcanza al año 2050, con Planes de Acción quinquenales.
-                              Plan Nacional de Adaptación a la Variabilidad y el Cambio Climático en Ciudades e Infraestructuras.
+
+                              **Plan Nacional de Adaptación a la Variabilidad y el Cambio Climático en Ciudades e Infraestructuras.**
 
 
 ## **Presentación 27 Noviembre 2024**
