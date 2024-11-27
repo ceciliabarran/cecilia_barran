@@ -28,5 +28,4 @@ Proyecto Fortalecimiento del Proceso de Implementación del Sistema Nacional de 
 
 # Presentación 27 Noviembre 2024
 
-Enlace a mi presentación: 
-(https://docs.google.com/presentation/d/1PSvSOZfJQ5Ut-72sCIYmQvXgEmUQrWkcyO-5pVy9E1E/edit?usp=sharing)
+[Enlace a mi presentación:](https://docs.google.com/presentation/d/1PSvSOZfJQ5Ut-72sCIYmQvXgEmUQrWkcyO-5pVy9E1E/edit?usp=sharing)
