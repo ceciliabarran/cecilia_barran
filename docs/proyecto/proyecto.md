@@ -12,20 +12,20 @@ https://miro.com/app/board/uXjVKAVYfr8=/
 
 # Información sobre Uruguay
 
-    ...*Si bien Uruguay es un país pequeño en cuanto a superficie y población, posee grandes extensiones de 
+  *Si bien Uruguay es un país pequeño en cuanto a superficie y población, posee grandes extensiones de 
   áreas rurales. Se encuentra íntegramente en la zona templada y sus paisajes se caracterizan por presentar 
   un mosaico de ambientes diferentes (bosques, humedales, lagunas, etc.) en una matriz de pradera y una 
   densa red hidrográfica.*
 
-    ...*Uruguay y su entorno geográfico representan una unidad diferenciada del resto del continente en lo que 
+  *Uruguay y su entorno geográfico representan una unidad diferenciada del resto del continente en lo que 
   refiere a la composición de su flora y fauna, constituyendo un ecotono terrestre y marino de importancia 
   global para la biodiversidad. La evidencia apunta a que Uruguay no es la misma provincia que las “pampas” 
   argentinas sino que probablemente deba considerarse como perteneciente a una “formación” o 
   “provincia” subtropical húmeda, heterogénea en su fisonomía, como en su composición florística. Es 
   razonable concebir a esta región como una gran **zona de transición**.*  
 
-                                                      SNAP-Proyecto Fortalecimiento del Proceso de Implementación del Sistema Nacional de Áreas Protegidas de Uruguay. Importancia global
-                                                      de la biodiversidad del Uruguay, Junio 2007. 
+  SNAP-Proyecto Fortalecimiento del Proceso de Implementación del Sistema Nacional de Áreas Protegidas de Uruguay. Importancia global
+  de la biodiversidad del Uruguay, Junio 2007. 
 
 
    Su población es de 3.286.314 personas (según INE) Y **habita en un 93,4 % en ciudades**, y la tendencia creciente a 
@@ -33,7 +33,7 @@ https://miro.com/app/board/uXjVKAVYfr8=/
   Estos factores hacen que el país sea altamente vulnerable a la variabilidad y el cambio climático y explican la prioridad política que se ha otorgado a la implementación de 
   medidas tendientes a aumentar la **resiliencia y la adaptación** a los efectos adversos del cambio climático y la mitigación de emisiones de gases de efecto invernadero, a partir 
   de esfuerzos propios, como con el apoyo internacional provisto en el ámbito de la Convención Marco de las Naciones Unidas sobre el Cambio Climático.
-                                                            Plan Nacional de Adaptación a la Variabilidad y el Cambio climático en Ciudades e Infraestructuras.
+                              Plan Nacional de Adaptación a la Variabilidad y el Cambio climático en Ciudades e Infraestructuras.
 
 
 ## **Presentación 27 Noviembre 2024**
