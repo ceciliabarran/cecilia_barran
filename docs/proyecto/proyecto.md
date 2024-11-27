@@ -28,7 +28,7 @@ https://miro.com/app/board/uXjVKAVYfr8=/
                                                       de la biodiversidad del Uruguay, Junio 2007. 
 
 
-   Su población es de 3.286.314 personas (según INE) Y habita en un 93,4 % en ciudades, y la tendencia creciente a 
+   Su población es de 3.286.314 personas (según INE) Y **habita en un 93,4 % en ciudades**, y la tendencia creciente a 
   la urbanización se mantiene. La población, las actividades y las infraestructuras se concentran predominantemente en áreas expuestas a riesgos climáticos. 
   Estos factores hacen que el país sea altamente vulnerable a la variabilidad y el cambio climático y explican la prioridad política que se ha otorgado a la implementación de 
   medidas tendientes a aumentar la **resiliencia y la adaptación** a los efectos adversos del cambio climático y la mitigación de emisiones de gases de efecto invernadero, a partir 
