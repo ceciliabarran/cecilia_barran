@@ -24,7 +24,8 @@ https://miro.com/app/board/uXjVKAVYfr8=/
   “provincia” subtropical húmeda, heterogénea en su fisonomía, como en su composición florística. Es 
   razonable concebir a esta región como una gran **zona de transición**.*  
 
-Proyecto Fortalecimiento del Proceso de Implementación del Sistema Nacional de Áreas Protegidas de Uruguay 
+SNAP-Proyecto Fortalecimiento del Proceso de Implementación del Sistema Nacional de Áreas Protegidas de Uruguay. Importancia global
+ de la biodiversidad del Uruguay, Junio 2007. 
 
 ## **Presentación 27 Noviembre 2024**
 
