@@ -28,5 +28,6 @@ Teniendo en cuenta que un habitat por definición es: *lugar de condiciones apro
 
 Y si extistiese una normativa que obligue a pagar con suelo vivo por cada m2 modificado? Se podrian revestir azoteas y fachadas con suelo?  ya existe en el mercado sistemas para azoteas verdes como por ejemplo: https://www.verdefacil.com/. De que forma mi proyecto podría aportar valor?
 
-Seria lo mismo si juntara todos los tapers, botellas de agua vacias y recipientes vacios que tengo y les pusiera tierra y sembrara o plantara el ellos? estaria ayudadndo con esta acción a crear m2 de suelo?
+Serviria si juntara todos los tapers de helado que tengo, botellas de agua vacias y recipientes vacios  y les pusiera tierra y sembrara o plantara el ellos? estaria ayudadndo con esta acción a crear m2 de suelo? Cómo tendria que ser el contenedor para que pueda crecer y desarrollarse la vida? 
+Estuve leyendo a el proyecto de "nendo dango" de 
 
