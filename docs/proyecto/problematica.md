@@ -26,7 +26,7 @@ Si a esta pérdida de biodiversidad por perdida de suelo le sumamos el aumento d
 
 Teniendo en cuenta que un habitat por definición es: *lugar de condiciones apropiadas para que viva un organismo, especie o comunidad animal o vegetal* **¿qué necesita un suelo para considerarse SANO?**
 
-Y si extistiese una normativa que obligue a pagar con suelo vivo por cada m2 construido? Se podrian revestir azoteas y fachadas con suelo?  ya existe en el mercado sistemas para azoteas verdes como por ejemplo: https://www.verdefacil.com/. 
+Y si extistiese una normativa que obligue a pagar con suelo vivo por cada m2 construido? Se podrian revestir azoteas y fachadas con suelo?  ya existe en el mercado sistemas para azoteas verdes como por ejemplo: https://www.verdefacil.com/. De que forma mi proyecto podría aportar valor?
 
 Seria lo mismo si juntara todos los tapers, botellas de agua vacias y recipientes vacios que tengo y les pusiera tierra y sembrara o plantara el ellos? estaria ayudadndo con esta acción a crear m2 de suelo?
 
