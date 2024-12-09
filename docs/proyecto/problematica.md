@@ -13,14 +13,17 @@ https://news.un.org/es/story/2024/12/1534741
 
 Es una pérdida invisible, es silenciosa, no aparece en el informativo.
 
-La naturaleza esta en constante movimiento, evolucionando generación tras generación. Moviendose para sobrevivir o adaptandose a los cambios. Pero ¿qué pasa con las especies que no se pueden adaptar ni trasladar?, o aquellas que necesitan de la ayuda de otras especies para esparcirse y sus vehículos se extingen.
+La naturaleza esta en constante movimiento, evolucionando generación tras generación. Moviendose para sobrevivir y adaptarse a los cambios. Pero ¿qué pasa con las especies que no se pueden adaptar ni trasladar?, o aquellas que necesitan de la ayuda de otras especies para esparcirse y sus vehículos se extingen.
 
 Este texto https://thorhanson.net/hurricane-lizards fue clave para cambiar la perspectiva de mi proyecto.
 
 LA PERDIDA DE SUELO VIVO NOS AFECTA A TODOS. Cómo puedo contribuir a REGENERAR SUELO desde mis posibilidades o conocimientos y cómo puedo poner al servicio de este tema lo aprendido en el curso?
 
 
+Una de los factores de pérdida de suelo vivo es la expanción urbana descontrolada. Implica la conversión de tierras agrícolas, bosques y otros ecosistemas naturales en infraestructura urbana, como edificios, rutas y zonas industriales. Esta pérdida de habitat tiene importante consecuencias para la biodiversidad porque reduce el espacio disponible para las especies. Asi como también conduce al deterioro de los ecosistemas naturales, contaminación del aire y del agua y de la calidad del medio ambiente. 
 
-Una de los factores de pérdida de suelo vivo es la expanción urbana descontrolada. 
+Si a esta pérdida de biodiversidad por perdida de suelo le sumamos el aumento de temperatura en el mundo por el cambio climático, se reduce aún más el espacio disponible para habitar. 
 
-la expanción urbana implica la conversión de tierras agrícolas, bosques y otros ecosistemas naturales en infraestructura urbana, como edificios, rutas y zonas industriales. Esta pérdida de habitat tiene importante consecuencias para la biodiversidad porque reduce el espacio disponible para las especies. Asi como también conduce al deterioro de los ecosistemas naturales, contaminación del aire y del agua y de la calidad del medio ambiente.
+Teniendo en cuenta que un habitat por definición es: *lugar de condiciones apropiadas para que viva un organismo, especie o comunidad animal o vegetal* **¿qué necesita un suelo para considerarse SANO?**
+
+
