@@ -2,7 +2,8 @@
 hide:
     - toc
 ---
-imagen suelo degradado
+![](../images/ProyectoIntegrador/suelodegradado.jpg )
+
 # ONU : La desertificación y la degradación del suelo afecta a 3000 millones de personas en todo el mundo
 https://news.un.org/es/story/2024/12/1534741
 
