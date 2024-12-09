@@ -12,11 +12,12 @@ Mi lucha surge a partir se la siguiente noticia:
 https://news.un.org/es/story/2024/12/1534741
 
 Es una pérdida invisible, es silenciosa, no aparece en el informativo.
-La naturaleza esta en constante movimiento, evolucionando generación tras generación. Moviendose para sobrevivir o adaptandose a los cambios. Pero que pasa con las especies que no se pueden adaptar ni trasladar, o aquellas que necesitan de la ayuda de otras especies para esparcirse. 
+
+La naturaleza esta en constante movimiento, evolucionando generación tras generación. Moviendose para sobrevivir o adaptandose a los cambios. Pero ¿qué pasa con las especies que no se pueden adaptar ni trasladar?, o aquellas que necesitan de la ayuda de otras especies para esparcirse y sus vehículos se extingen.
 
 Este texto https://thorhanson.net/hurricane-lizards fue clave para cambiar la perspectiva de mi proyecto.
 
-LA PERDIDA DE SUELO VIVO NOS AFECTA A TODOS. Como puedo contribuir a REGENERAR SUELO? 
+LA PERDIDA DE SUELO VIVO NOS AFECTA A TODOS. Cómo puedo contribuir a REGENERAR SUELO desde mis posibilidades o conocimientos y cómo puedo poner al servicio de este tema lo aprendido en el curso?
 
 
 
