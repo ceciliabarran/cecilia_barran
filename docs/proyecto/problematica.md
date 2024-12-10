@@ -17,7 +17,12 @@ La naturaleza está en constante movimiento, evolucionando generación tras gene
 
 Este texto https://thorhanson.net/hurricane-lizards fue clave para cambiar la perspectiva de mi proyecto.
 
-LA PERDIDA DE SUELO VIVO NOS AFECTA A TODOS. ¿Cómo puedo contribuir a REGENERAR SUELO desde mis posibilidades o conocimientos y cómo puedo poner al servicio de este tema lo aprendido en el curso?
+LA PERDIDA DE SUELO VIVO NOS AFECTA A TODOS.
+
+![](../images/ProyectoIntegrador/biodiversidad.png)
+
+
+ ¿Cómo puedo contribuir a REGENERAR SUELO desde mis posibilidades o conocimientos y cómo puedo poner al servicio de este tema lo aprendido en el curso?
 
 
 Uno de los factores de pérdida de suelo vivo es la expansión urbana descontrolada. Implica la conversión de tierras agrícolas, bosques y otros ecosistemas naturales en infraestructura urbana, como edificios, rutas y zonas industriales. Esta pérdida de hábitat tiene importantes consecuencias para la biodiversidad porque reduce el espacio disponible para las especies. Así como también conduce al deterioro de los ecosistemas naturales, contaminación del aire y del agua y de la calidad del medio ambiente. 
@@ -26,7 +31,7 @@ Si a esta pérdida de biodiversidad por cambio de suelo le sumamos el aumento de
 
 Teniendo en cuenta que un hábitat por definición es: *lugar de condiciones apropiadas para que viva un organismo, especie o comunidad animal o vegetal,* **¿qué necesita un suelo para considerarse SANO?**
 
-![](../images/ProyectoIntegrador/biodiversidad.png)
+
 
 ¿Y si existiese una normativa que obligue a pagar con suelo vivo por cada m2 modificado? ¿Se podrían revestir azoteas y fachadas con suelo?  Existen en el mercado sistemas para azoteas verdes como por ejemplo: https://www.verdefacil.com/. ¿De qué forma mi proyecto podría aportar valor?
 
