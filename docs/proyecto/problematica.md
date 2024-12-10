@@ -26,6 +26,8 @@ Si a esta pérdida de biodiversidad por cambio de suelo le sumamos el aumento de
 
 Teniendo en cuenta que un hábitat por definición es: *lugar de condiciones apropiadas para que viva un organismo, especie o comunidad animal o vegetal,* **¿qué necesita un suelo para considerarse SANO?**
 
+![](../images/ProyectoIntegrador/biodiversidad.png)
+
 ¿Y si existiese una normativa que obligue a pagar con suelo vivo por cada m2 modificado? ¿Se podrían revestir azoteas y fachadas con suelo?  Existen en el mercado sistemas para azoteas verdes como por ejemplo: https://www.verdefacil.com/. ¿De qué forma mi proyecto podría aportar valor?
 
 ¿Y si junto todos los tapers de helado vacíos que tengo, botellas de agua vacías,  les pongo tierra y planto en ellos? ¿estaré ayudando con esta acción a crear m2 de suelo? ¿Cómo se podrían mejorar las condiciones de mis macetas?
