@@ -35,6 +35,7 @@ Teniendo en cuenta que un hábitat por definición es: *lugar de condiciones apr
 
 ¿Y si existiese una normativa que obligue a pagar con suelo vivo por cada m2 modificado? ¿Se podrían revestir azoteas y fachadas con suelo?  Existen en el mercado sistemas para azoteas verdes como por ejemplo: https://www.verdefacil.com/. ¿De qué forma mi proyecto podría aportar valor?
 
+
 ¿Y si junto todos los tapers de helado vacíos que tengo, botellas de agua vacías,  les pongo tierra y planto en ellos? ¿estaré ayudando con esta acción a crear m2 de suelo? ¿Cómo se podrían mejorar las condiciones de mis macetas?
 
 La pandemia nos encontró viviendo en Canelones, Ciudad de la costa en un predio de 500m2 a las afueras de Montevideo y en esos años encerrados aprendimos a conectar con el patio y la naturaleza que teniamos. Creamos una huerta familiar y fue hermoso.
