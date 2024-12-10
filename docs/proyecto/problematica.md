@@ -48,15 +48,15 @@ Hace un año y medio casi que nos mudamos a Rivera, nos trasladamos 500km hacia 
 
 ¿Y si pudiese crear un *contenedor de suelo acondicionado*? Sería con doble muro y cámara de aire, con paredes húmedas, agua a demanda de la planta, con sombra y un sustrato nutrido. 
 Este contenedor de suelo tendría que cumplir algunos requisitos: 
-    >Impermeabilidad,
-    >Drenajes,
-    >Adaptabilidad a las superficies existentes,
-    >Capacidad de retener y almacenar agua,
-    >Sistema de recolección de agua de lluvia y riego automático.
-    >Incorporar energías renovables.
-    >Aplicable en programas de huerta de escuelas, en paradas de omnibus. 
-    >Reutilizar residuos, 
-    >Involucrar a la comunidad.
+    > - Impermeabilidad,
+    > - Drenajes,
+    > - Adaptabilidad a las superficies existentes,
+    > - Capacidad de retener y almacenar agua,
+    > - Sistema de recolección de agua de lluvia y riego automático.
+    > - Incorporar energías renovables.
+    > - Aplicable en programas de huerta de escuelas, en paradas de omnibus. 
+    > - Reutilizar residuos, 
+    > - Involucrar a la comunidad.
 
 
 
