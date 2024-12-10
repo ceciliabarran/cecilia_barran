@@ -27,7 +27,7 @@ LA PERDIDA DE SUELO VIVO NOS AFECTA A TODOS.
 
 Uno de los factores de pérdida de suelo vivo es la expansión urbana descontrolada. Implica la conversión de tierras agrícolas, bosques y otros ecosistemas naturales en infraestructura urbana, como edificios, rutas y zonas industriales. Esta pérdida de hábitat tiene importantes consecuencias para la biodiversidad porque reduce el espacio disponible para las especies. Así como también conduce al deterioro de los ecosistemas naturales, contaminación del aire y del agua y de la calidad del medio ambiente. 
 
-Si a esta pérdida de biodiversidad por cambio de suelo le sumamos el aumento de temperatura en el mundo por el cambio climático, se reduce aún más el espacio disponible para habitar. 
+Si a esta pérdida de biodiversidad por cambio de suelo le sumamos el aumento de temperatura en el mundo por el cambio climático, se reduce aún más el espacio disponible para habitar.  
 
 Teniendo en cuenta que un hábitat por definición es: *lugar de condiciones apropiadas para que viva un organismo, especie o comunidad animal o vegetal,* **¿qué necesita un suelo para considerarse SANO?**
 
