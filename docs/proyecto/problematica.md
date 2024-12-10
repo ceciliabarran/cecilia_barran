@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-Mi lucha surge a partir se la siguiente noticia:
+# Mi lucha surge a partir se la siguiente noticia:
 
 ![](../images/ProyectoIntegrador/suelodegradado.jpg )
 
@@ -44,7 +44,7 @@ La pandemia nos encontró viviendo en Canelones, Ciudad de la costa en un predio
 Aprendimos a compostar, a nutrir el suelo, a tener paciencia, a respetar el calendario y las estaciones para plantar, cosechar, a recolectar semillas y preservarlas e intercambiarlas, a respetar el tiempo y los procesos. Aprendimos a OBSERVAR, a maravillarnos con los detalles. A valorar el alimento, no como un producto perfecto sino a valorar los sabores.
 Hace un año y medio casi que nos mudamos a Rivera, nos trasladamos 500km hacia el noreste del Pais, un contexto muy muy distinto, muy caluroso y de lluvia intensa 200ml en escaso tiempo.
 
-**Desafío propuesto:**
+## Desafío propuesto:
 
 ¿Y si pudiese crear un *contenedor de suelo acondicionado*? Sería con doble muro y cámara de aire, con paredes húmedas, agua a demanda de la planta, con sombra y un sustrato nutrido. 
 Este contenedor de suelo tendría que cumplir algunos requisitos:
