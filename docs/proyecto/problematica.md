@@ -33,3 +33,4 @@ Teniendo en cuenta que un hábitat por definición es: *lugar de condiciones apr
 La pandemia nos encontró viviendo en Canelones, Ciudad de la costa en un predio de 500m2 a las afueras de Montevideo y en esos años encerrados aprendimos a conectar con el patio y la naturaleza que teniamos. Creamos una huerta familiar y fue hermoso.
 ![](../images/ProyectoIntegrador/pandemia.png)
 Aprendimos a compostar, a nutrir el suelo, a tener paciencia, a respetar el calendario y las estaciones para plantar, cosechar, a recolectar semillas y preservarlas e intercambiarlas, a respetar el tiempo y los procesos. Aprendimos a OBSERVAR, a maravillarnos con los detalles. A valorar el alimento, no como un producto perfecto sino a valorar los sabores.
+Hace un año y medio casi que nos mudamos a Rivera, nos trasladamos 500km hacia el noreste del Pais, un contexto muy muy distinto, caluroso, donde llueve 200ml en un minuto y sale el sol en el siguiente minuto.
