@@ -59,5 +59,5 @@ Este contenedor de suelo tendría que cumplir algunos requisitos:
 > - Reutilizar residuos, 
 > - Involucrar a la comunidad.
 
-> *Manos a la obra*...
+**Manos a la obra**...
 
