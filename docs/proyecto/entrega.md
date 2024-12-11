@@ -8,10 +8,12 @@ hide:
 ## 1 - Proceso para IDEAR y FABRICAR mi PF
 
 **¿Qué hace?**
-El proyecto busca implementar un sistema de suelo vivo en espacios urbanos, en superficies existentes como cubiertas, fachadas, equipamientos urbanos y vehículos. Es un **contenedor de suelo Vivo acondicionado**, un sistema modular, escalable que incorpora mecanismos de auto-riego y recolección de lluvia con el objetivo de proporcionar superficies que favorecen a la biodiversidad urbana, mejoran la calidad del aire y contribuyen a la mitigación del cambio climático. El proyecto se implanta en las paradas de omnibus de la Ciudad de Rivera, buscando co-habitar el territorio. Mi lucha consiste en visibilizar la importancia que tiene el suelo intrinsecamente e involucrar a la comunidad en el proceso.
+
+El proyecto busca implementar un sistema de suelo vivo en espacios urbanos, en superficies existentes como cubiertas, fachadas, equipamientos urbanos y vehículos. 
+Es un **contenedor de suelo Vivo acondicionado**, un sistema modular, escalable que incorpora mecanismos de auto-riego y recolección de lluvia con el objetivo de proporcionar superficies que favorecen a la biodiversidad urbana, mejoran la calidad del aire y contribuyen a la mitigación del cambio climático. El proyecto se implanta en las paradas de omnibus de la Ciudad de Rivera, buscando co-habitar el territorio. Mi lucha consiste en visibilizar la importancia que tiene el suelo intrinsecamente e involucrar a la comunidad en el proceso.
 
 **¿Cómo llegue a la idea?**
-La idea surge como respuesta a la problemática de la pérdida de biodiversidad del suelo,  a causa de la expanción descontrolada de la ciudad y el reemplazo del suelo natural por superficies impermeables. A partir de investigaciones y observación sobre el cambio climático y las variables climaticas que afectan a las ciudades, nuestra forma actual de construir y cómo la naturaleza se viene adaptando al cambio, es que surge la necesidad de recuperar áreas impermeables.
+La idea surge como respuesta a la problemática de la pérdida de biodiversidad del suelo,  a causa de la expanción descontrolada de la ciudad y el reemplazo del suelo natural por superficies impermeables. A partir de investigaciones y observación sobre el cambio climático y las variables climaticas que afectan a las ciudades, nuestra forma actual de construir y cómo la naturaleza se viene adaptando al cambio, es que surge la necesidad de revestir de suelo la ciudad. 
 
 **¿Quién lo ha hecho de antemano?**
 En el mundo: 
