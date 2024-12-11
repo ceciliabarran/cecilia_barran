@@ -24,13 +24,21 @@ En el mundo: techos y fachadas verdes, huertas urbanas.
 Diseñe el contenedor, pensando en una cubierta de chapa acanalada. El diseño lo realice ne Fusion 360, 
 **¿Qué materiales y componentes se utilizaron?**
 
-PET, kit de auto riego, pelos de perros (residuo de la peluquería canina), 
+Sustrato nutrido con humus de lombriz, 
+Planta autóctona,
+Módulo plástico construido con PET,
+sistema de auto riego y captación de agua de lluvia.
+Sensor de humedad, controla el riego automático según la necesidad de la planta.
+pelos de perros (residuo de la peluquería canina), material absorvente de humedad.
 
 **¿Qué partes y sistemas se fabricaron?**
 
 Impresión 3d en lab A rIVERA, se imprimieros la cascara, el filtro y la tapa del contenedor. 
+la barrera absorvente, con tratamiento de pelos de perros,
+
 
 **¿Qué procesos se utilizaron?**
+Diseño CAD para modelar y crear prototipo de los múdulos se utilizó Fusion 360
 Proceso aditivo, impresion 3d. 
 
 **¿Qué preguntas se respondieron?**
