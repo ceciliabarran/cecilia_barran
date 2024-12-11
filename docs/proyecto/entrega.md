@@ -3,14 +3,28 @@ hide:
     - toc
 ---
 
-## **Presentación 27 Noviembre 2024**
+# **Entrega Proyecto Final**
 
-Se realiza un simulacro de la presentación final en 5 minutos aproximadamente, mediante una presentación y muestra del prototipo.
+## ** 1 - Proceso para IDEAR y FABRICAR mi PF**
 
-[Enlace a mi presentación:](https://docs.google.com/presentation/d/1PSvSOZfJQ5Ut-72sCIYmQvXgEmUQrWkcyO-5pVy9E1E/edit?usp=sharing)
+**¿Qué hace?**
+**¿Cómo llegue a la idea?**
+**¿Quién lo ha hecho de antemano?**
+**¿Qué diseñé?**
+**¿Qué materiales y componentes se utilizaron?**
+**¿Qué partes y sistemas se fabricaron?**
+**¿Qué procesos se utilizaron?**
+**¿Qué preguntas se respondieron?**
+**¿Qué funcionó? y ¿qué no?**
+**¿Cuales son las conslusiones?**
+**¿Cuáles son los pasos a seguir?**
 
-## **correcciones recibidas** de Santiago y Joaquín
+## ** 2 - Presentación, 5 slides.
 
-Explicar el proyecto de una forma más clara, con  esquemas funcionales donde se pueda entender mejor cuales son las partes que componen el sistema y cómo sería su implementación en la parada de omnibus. Al contextualizar el proyecto van a surgir detalles y definiciones propias del sitio donde se intale.
+## ** 3 - VIDEO, 1 min.
 
-Al estar en proceso de impresión mi prototipo no se pudo mostrar en la corrección. 
+
+
+
+
+
