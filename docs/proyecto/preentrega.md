@@ -5,6 +5,8 @@ hide:
 
 ## **Presentación 27 Noviembre 2024**
 
+Se realiza un simulacro de la presentación final en 5 minutos aproximadamente, mediante una presentación y muestra del prototipo.
+
 [Enlace a mi presentación:](https://docs.google.com/presentation/d/1PSvSOZfJQ5Ut-72sCIYmQvXgEmUQrWkcyO-5pVy9E1E/edit?usp=sharing)
 
 ## **correcciones recibidas** de Santiago y Joaquín
