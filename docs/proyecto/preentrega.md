@@ -11,6 +11,6 @@ Se realiza un simulacro de la presentación final en 5 minutos aproximadamente, 
 
 ## **correcciones recibidas** de Santiago y Joaquín
 
-Explicar el proyecto de una forma más clara, con  esquemas funcionales donde se pueda entender mejor cuales son las partes que componen el sistema y cómo sería su implementación en la parada de omnibus.
+Explicar el proyecto de una forma más clara, con  esquemas funcionales donde se pueda entender mejor cuales son las partes que componen el sistema y cómo sería su implementación en la parada de omnibus. Al contextualizar el proyecto van a surgir detalles y definiciones propias del sitio donde se intale.
 
 Al estar en proceso de impresión mi prototipo no se pudo mostrar en la corrección. 
