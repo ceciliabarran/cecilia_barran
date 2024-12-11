@@ -15,10 +15,10 @@ Mi lucha consiste en visibilizar la importancia que tiene el suelo intrinsecamen
 
 **¿Cómo llegue a la idea?**
 
-La idea surge como respuesta a la problemática de la pérdida de biodiversidad del suelo,  a causa de la expanción descontrolada de la ciudad y el reemplazo del suelo natural por superficies impermeables. A partir de investigaciones y observación sobre el cambio climático y las variables climaticas que afectan a las ciudades, nuestra forma actual de construir y cómo la naturaleza se viene adaptando al cambio, es que surge la necesidad de revestir de suelo la ciudad. 
+La idea surge como respuesta a la problemática de la pérdida de biodiversidad del suelo,  a causa de la expanción descontrolada de la ciudad y el reemplazo del suelo natural por superficies impermeables. A partir de investigaciones y observación sobre el cambio climático y las variables climaticas que afectan a las ciudades, nuestra forma actual de construir, la relación  que tiene el suelo con la vida en el planeta, es que surge la necesidad de revestir de suelo la ciudad. 
 
 **¿Quién lo ha hecho de antemano?**
-En el mundo: 
+En el mundo: techos y fachadas verdes, huertas urbanas. 
 
 **¿Qué diseñé?**
 
