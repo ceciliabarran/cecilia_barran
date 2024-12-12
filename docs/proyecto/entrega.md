@@ -17,13 +17,14 @@ Mi lucha consiste en visibilizar la importancia que tiene el suelo intrinsecamen
 
 **¿Cómo llegue a la idea?**
 
-La idea surge como respuesta a la problemática de la pérdida de biodiversidad del suelo,  a causa de la expanción descontrolada de la ciudad y el reemplazo del suelo natural por superficies impermeables. A partir de investigaciones y observación sobre el cambio climático y las variables climaticas que afectan a las ciudades, nuestra forma actual de construir, la relación  que tiene el suelo con la vida en el planeta, es que surge la necesidad de revestir la ciudad con  suelo. 
+La idea surge como respuesta a la problemática de la pérdida de biodiversidad del suelo. Uno de los factores de pérdida de suelo vivo es la expanción descontrolada de la ciudad y el reemplazo del suelo natural por superficies impermeables. A partir de la investigacion sobre el cambio climático, las variables climaticas que afectan a las ciudades, nuestra forma actual de habitar y  la relación  que tiene el suelo con la vida en el planeta, es que  surge la necesidad de poner foco en el suelo. 
 
 **¿Quién lo ha hecho de antemano?**
 En el mundo: techos y fachadas verdes, huertas urbanas. 
 
 **¿Qué diseñé?**
 Diseñe el contenedor, pensando en una cubierta de chapa acanalada. El diseño lo realice ne Fusion 360, 
+
 **¿Qué materiales y componentes se utilizaron?**
 
 Sustrato nutrido con humus de lombriz, 
