@@ -17,7 +17,7 @@ Mi lucha consiste en visibilizar la importancia que tiene el suelo intrinsecamen
 
 **¿Cómo llegue a la idea?**
 
-La idea surge como respuesta a la problemática de la pérdida de biodiversidad del suelo. Uno de los factores de pérdida de suelo vivo es la expanción descontrolada de la ciudad y el reemplazo del suelo natural por superficies impermeables. A partir de la investigacion sobre el cambio climático, las proyecciones de las variables climaticas quey el efecto que tendrán en las ciudades, nuestra forma actual de habitar y  la relación  que tiene el suelo con la vida en el planeta, es que  surge la necesidad de poner foco en el suelo perdido y analizar la posibilidad de regenerarlo.
+La idea surge como respuesta a la problemática de la pérdida de biodiversidad del suelo. Uno de los factores de pérdida de suelo vivo es la expanción descontrolada de la ciudad y el reemplazo del suelo natural por superficies impermeables. A partir de la investigacion sobre el cambio climático, las proyecciones de las variables climaticas y el efecto que tendrán en las ciudades, nuestra forma actual de habitar y  la relación  que tiene el suelo con la vida en el planeta, es que  surge la necesidad de poner foco en el suelo perdido y analizar la posibilidad de regenerarlo.
 
 **¿Quién lo ha hecho de antemano?**
 En el mundo: techos y fachadas verdes, huertas urbanas. 
