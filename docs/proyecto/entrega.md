@@ -7,6 +7,7 @@ hide:
 
 ## 1 - Proceso para IDEAR y FABRICAR mi PF
 
+
 **¿Qué hace?**
 
 El proyecto busca implementar un sistema de suelo vivo en espacios urbanos, en superficies existentes como cubiertas, fachadas, equipamientos urbanos y vehículos. 
