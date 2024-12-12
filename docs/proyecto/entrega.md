@@ -17,13 +17,20 @@ Mi lucha consiste en visibilizar la importancia que tiene el suelo intrinsecamen
 
 **¿Cómo llegue a la idea?**
 
-La idea surge como respuesta a la problemática de la pérdida de biodiversidad del suelo. Uno de los factores de pérdida de suelo vivo es la expanción descontrolada de la ciudad y el reemplazo del suelo natural por superficies impermeables. A partir de la investigacion sobre el cambio climático, las proyecciones de las variables climaticas y el efecto que tendrán en las ciudades, nuestra forma actual de habitar y  la relación  que tiene el suelo con la vida en el planeta, es que  surge la necesidad de poner foco en el suelo perdido y analizar la posibilidad de regenerarlo.
+Si bien se mantuvo el tema desde el inicio del curso, la idea fue mutando hasta decantar en la investigación final. 
+
+> - La idea surge como respuesta a la problemática de la **pérdida de biodiversidad del suelo.** Uno de los factores de pérdida de suelo vivo es la expanción descontrolada de la ciudad y el reemplazo del suelo natural por superficies impermeables. A partir de la investigacion sobre el cambio climático, las proyecciones de las variables climaticas y el efecto que tendrán en las ciudades, nuestra forma actual de habitar y  la relación  que tiene el suelo con la vida en el planeta, es que  surge la necesidad de poner foco en el suelo perdido y analizar la posibilidad de regenerarlo.
+
+> - El aumento de temperatura global mueve a los seres vivos en busca de alimento y mejores condiciones de vida. En mi barrio qué áreas se pueden transformar para contribuir con este movimiento? Las paradas de omnibus son un equipamiento urbano  con una superficie de 2m2 aproximadamente cada una, si la multiplicamos por la cantidad total de paradas que hay hoy en Rivera transformaríamos x m2 
+
+> - Incorporar a la comunidad, referentes locales, diversos actores que se puedan involucrar en el proceso de creación del sistema.
+Viveros, Escuelas, Laboratorios de impresión 3d, la Intendencia, Las peluquerias caninas, 
 
 **¿Quién lo ha hecho de antemano?**
 En el mundo: techos y fachadas verdes, huertas urbanas. 
 
 **¿Qué diseñé?**
-Diseñe el contenedor, pensando en una cubierta de chapa acanalada. El diseño lo realice ne Fusion 360, 
+Diseñe el contenedor de suelo que se pueda instalar sobre una cubierta de chapa acanalada. El diseño lo realice ne Fusion 360, 
 
 **¿Qué materiales y componentes se utilizaron?**
 
