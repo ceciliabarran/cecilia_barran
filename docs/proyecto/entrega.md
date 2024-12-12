@@ -12,7 +12,7 @@ hide:
 **¿Qué hace?**
 
 El proyecto busca implementar un sistema de suelo vivo en espacios urbanos, a diferentes escalas pudiendose adaptar en superficies  como cubiertas, fachadas, equipamientos urbanos y vehículos. 
-Es un **contenedor de suelo Vivo acondicionado**, un sistema modular, escalable que incorpora mecanismos de auto-riego y recolección de lluvia con el objetivo de proporcionar superficies que favorecen a la biodiversidad urbana, mejoran la calidad del aire y contribuyen a la mitigación del cambio climático. El proyecto se implanta en las paradas de omnibus de la Ciudad de Rivera, buscando co-habitar el territorio. 
+Es un **contenedor de suelo Vivo acondicionado**, un sistema modular, escalable que incorpora mecanismos de auto-riego y recolección de lluvia con el objetivo de proporcionar superficies que favorecen a la biodiversidad urbana, mejoran la calidad del aire y contribuyen a la mitigación del cambio climático. En un primer abordaje el proyecto se implanta en las paradas de omnibus de la Ciudad de Rivera, buscando co-habitar el territorio. 
 Mi lucha consiste en visibilizar la importancia que tiene el suelo intrinsecamente e involucrar a la comunidad en el proceso.
 
 **¿Cómo llegue a la idea?**
