@@ -24,8 +24,8 @@ Si bien se mantuvo el tema desde el inicio del curso, la idea fue mutando hasta 
 
 > - El aumento de temperatura global mueve a los seres vivos en busca de alimento y mejores condiciones de vida. En mi barrio qué áreas se pueden transformar para contribuir con este movimiento? Las paradas de omnibus son un equipamiento urbano  con una superficie de 2m2 aproximadamente cada una, si la multiplicamos por la cantidad total de paradas que hay hoy en Rivera transformaríamos x m2 
 
-> - Integrar referentes locales, diversos actores que se involucren en el proceso de creación del sistema, en el suministro de materiales, en la gestión y el mantenimiento.
-Viveros, Escuelas, Laboratorios de impresión 3d, la Intendencia, peluquerias caninas.  
+> - Integrar referentes locales, diversos actores que se involucren en el proceso de creación del sistema, en el suministro de materiales, en la gestión y el mantenimiento. Pensado a escala "maceta" tiene un objetivo "disparador", me lo imagino aplicado en programas escolares promoviendo la reflexión ambiental, creando instancias de investigación, introduciendo el diseño y la producción 3d de forma temprana, sumando talleres de biomatriales como actores de cambio. Revalorizando los residuos domésticos y gestionandolos de forma mas responsable.
+Viveros, Escuelas, Laboratorios de impresión 3d, Intendencia Departamental, peluquerias caninas, talleres de producción de biomateriales  
 
 ### **¿Quién lo ha hecho de antemano?**
 
