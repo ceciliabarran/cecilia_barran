@@ -62,6 +62,9 @@ Arduino Uno + Sensor de humedad (kit Efdi),
 Pelos de perros (residuo de la Veterinaria),
 Depósito inferior de agua: Botella reciclada 2lts.
 Canilla desague $50 + manguera diam. 5mm largo = 1m $ 100
+Biomaterial en base a gelatina y residuos de la cocina. $300
+
+costo total estimado= $3400
 
 
 **¿Qué partes y sistemas se fabricaron?**
