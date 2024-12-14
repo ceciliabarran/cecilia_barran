@@ -9,13 +9,13 @@ hide:
 
 ![](../images/ProyectoIntegrador/concepto2.png)
 
-**¿Qué hace?**
+### **¿Qué hace?**
 
 El proyecto busca implementar un sistema de suelo vivo en espacios urbanos, a diferentes escalas pudiendose adaptar en superficies  como cubiertas, fachadas, equipamientos urbanos y vehículos. 
 Es un **contenedor de suelo Vivo acondicionado**, un sistema modular, escalable que incorpora mecanismos de auto-riego y recolección de lluvia con el objetivo de proporcionar superficies que favorecen a la biodiversidad urbana, mejoran la calidad del aire y contribuyen a la mitigación del cambio climático. En un primer abordaje el proyecto se implanta en las paradas de omnibus de la Ciudad de Rivera, buscando co-habitar el territorio. 
 Mi lucha consiste en visibilizar la importancia que tiene el suelo intrinsecamente e involucrar a la comunidad en el proceso.
 
-**¿Cómo llegue a la idea?**
+### **¿Cómo llegue a la idea?**
 
 Si bien se mantuvo el tema desde el inicio del curso, la idea fue mutando hasta decantar en la investigación final. 
 
@@ -26,7 +26,7 @@ Si bien se mantuvo el tema desde el inicio del curso, la idea fue mutando hasta 
 > - Integrar referentes locales, diversos actores que se involucren en el proceso de creación del sistema, en el suministro de materiales, en la gestión y el mantenimiento.
 Viveros, Escuelas, Laboratorios de impresión 3d, la Intendencia, peluquerias caninas.  
 
-**¿Quién lo ha hecho de antemano?**
+### **¿Quién lo ha hecho de antemano?**
 
 En el mundo: techos y fachadas verdes, huertas urbanas. 
 
@@ -42,13 +42,13 @@ Emerging objects:
 OXMAN *MAN-NOATA* Ciudades emergentes: A través del crecimiento, las ciudad se reconfigura para satisfacer las necesidades cambiantes de sus ocupantes.
 
 
-**¿Qué diseñé?**
+### **¿Qué diseñé?**
 
 Un sistema que pretende mejorar las condiciones del suelo *en maceta* con el objetivo que se pueda instalar en las cubiertas de chapa acanalada de las paradas de omnibus de la Ciudad de Rivera y así transformarlas en superficies vivas  brindando condiciones para la biodiversidad urbana. Para mostrar el sistema el prototipo se armó en base a un módulo reducido, independiente:
 
 ![](../images/ProyectoIntegrador/concepto3.png)
 
-**¿Qué materiales y componentes se utilizaron?**
+### **¿Qué materiales y componentes se utilizaron?**
 
 ![](../images/ProyectoIntegrador/esquema%20funcional.jpg) 
 
@@ -77,26 +77,26 @@ Materiales:
 costo total estimado= $3400
 
 
-**¿Qué partes y sistemas se fabricaron?**
+### **¿Qué partes y sistemas se fabricaron?**
 
 Impresión 3d en lab A rIVERA, se imprimieros la cascara, el filtro y la tapa del contenedor. 
 la barrera absorvente, con tratamiento de pelos de perros,
 
 
-**¿Qué procesos se utilizaron?**
+### **¿Qué procesos se utilizaron?**
 Diseño CAD para modelar y crear prototipo de los múdulos se utilizó Fusion 360
 Proceso aditivo, impresion 3d. 
 
-**¿Qué preguntas se respondieron?**
+### **¿Qué preguntas se respondieron?**
 
 
-**¿Qué funcionó? y ¿qué no?**
+### **¿Qué funcionó? y ¿qué no?**
 encastres entre piezas más holgado.
 
-**¿Cuales son las conslusiones?**
+### **¿Cuales son las conslusiones?**
 un aprendizaje total de tecnologís, de registro, de ejecución
 
-**¿Cuáles son los pasos a seguir?**
+### **¿Cuáles son los pasos a seguir?**
 
 
 
