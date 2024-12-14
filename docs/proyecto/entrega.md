@@ -23,8 +23,8 @@ Si bien se mantuvo el tema desde el inicio del curso, la idea fue mutando hasta 
 
 > - El aumento de temperatura global mueve a los seres vivos en busca de alimento y mejores condiciones de vida. En mi barrio qué áreas se pueden transformar para contribuir con este movimiento? Las paradas de omnibus son un equipamiento urbano  con una superficie de 2m2 aproximadamente cada una, si la multiplicamos por la cantidad total de paradas que hay hoy en Rivera transformaríamos x m2 
 
-> - Incorporar a la comunidad, referentes locales, diversos actores que se puedan involucrar en el proceso de creación del sistema.
-Viveros, Escuelas, Laboratorios de impresión 3d, la Intendencia, Las peluquerias caninas, 
+> - Integrar referentes locales, diversos actores que se involucren en el proceso de creación del sistema, en el suministro de materiales, en la gestión y el mantenimiento.
+Viveros, Escuelas, Laboratorios de impresión 3d, la Intendencia, peluquerias caninas.  
 
 **¿Quién lo ha hecho de antemano?**
 
@@ -48,6 +48,7 @@ Un sistema que pretende mejorar las condiciones del suelo *en maceta* con el obj
 ![](../images/ProyectoIntegrador/esquema%20funcional.jpg) 
 
 **¿Qué materiales y componentes se utilizaron?**
+
 Materiales: 
 Sustrato nutrido con humus de lombriz, 
 Planta autóctona,
