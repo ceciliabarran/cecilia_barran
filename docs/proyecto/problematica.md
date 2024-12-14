@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-# Mi lucha surge a partir se la siguiente noticia:
+# Mi lucha surge a partir de la siguiente noticia:
 
 ![](../images/ProyectoIntegrador/suelodegradado.jpg )
 
