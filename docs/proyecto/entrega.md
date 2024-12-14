@@ -43,12 +43,14 @@ OXMAN *MAN-NOATA* Ciudades emergentes: A través del crecimiento, las ciudad se 
 
 
 **¿Qué diseñé?**
+
 Un sistema que pretende mejorar las condiciones del suelo *en maceta* con el objetivo que se pueda instalar en las cubiertas de chapa acanalada de las paradas de omnibus de la Ciudad de Rivera y así transformarlas en superficies vivas  brindando condiciones para la biodiversidad urbana. Para mostrar el sistema el prototipo se armó en base a un módulo reducido, independiente:
 
-![](../images/ProyectoIntegrador/esquema%20funcional.jpg) 
+![](../images/ProyectoIntegrador/concepto3.png)
 
 **¿Qué materiales y componentes se utilizaron?**
 
+![](../images/ProyectoIntegrador/esquema%20funcional.jpg) 
 Materiales: 
 Sustrato nutrido con humus de lombriz, 
 Planta autóctona,
