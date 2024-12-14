@@ -39,7 +39,7 @@ Emerging objects:
 > - *Torre GEOtube*, habitab especializado para la vida silvestre que prospera con su entorno web: https://emergingobjects.com/project/geotube-tower/
 > - *BALDOSA DE JARDINERA EN CEMENTO* web: https://emergingobjects.com/project/planter-tile-in-cement/
 
-
+OXMAN *MAN-NOATA* Ciudades emergentes: A través del crecimiento, las ciudad se reconfigura para satisfacer las necesidades cambiantes de sus ocupantes.
 
 
 **¿Qué diseñé?**
