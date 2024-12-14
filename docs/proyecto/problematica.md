@@ -48,18 +48,18 @@ Hace un año y medio casi que nos mudamos a Rivera, nos trasladamos 500km hacia 
 
 ## Desafío propuesto:
 
-¿Y si pudiese crear un *contenedor de suelo acondicionado*? **SA** Sería con doble muro y cámara de aire, con paredes húmedas, agua a demanda de la planta, con sombra y un sustrato nutrido. 
-Este contenedor de suelo tendría que cumplir algunos requisitos:
+¿Y si pudiese crear un *contenedor acondicionado para el suelo*? Sería con doble muro y cámara de aire, con paredes húmedas, agua a demanda de la planta, con sombra y un sustrato nutrido. 
 
-> - Impermeabilidad,
-> - Drenajes,
-> - **Adaptabilidad** a las superficies existentes,
-> - Capacidad de retener y almacenar agua,
-> - Sistema de recolección de agua de lluvia y riego automático.
+Se definen ciertos requisitos para:
+
+> - Aspectos funcionales: contenedor estanco y resistente, con filtros , capacida de retener agua para aborber cuando necesite la planta, con drenajes para que no se hinunde, material resistente a la temperatura.
+> - **Adaptable** a las superficies existentes.
+> - Incorporar un sistema de recolección de agua de lluvia y riego automático en función de la necesidad del sustrato. Con el objetivo de minimizar el stres que sufre la planta por falta de agua.
 > - Incorporar energías renovables.
-> - Aplicable en programas de huerta de escuelas, en paradas de omnibus. 
-> - Reutilizar residuos, 
-> - **Involucrar** a la comunidad.
+> - Aplicable en programas de huerta de escuelas, escalable a equipamiento urbano. 
+> - Reutilizar residuos domiciliarios y fomentar los biomateriales como agentes de cambio.
+> - **Involucrar** a la comunidad en el proceso.
+> - Que tenga sombra más alla de su ubicación específica.
 
 **Manos a la obra**...
 
