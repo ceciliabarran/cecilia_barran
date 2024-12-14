@@ -27,6 +27,8 @@ Si bien se mantuvo el tema desde el inicio del curso, la idea fue mutando hasta 
 > - Con el objetivo de **Integrar** referentes locales, diversos actores que se involucren en el proceso de creación del sistema, en el suministro de materiales, en la gestión y el mantenimiento. Pensado a escala "maceta" tiene un objetivo "disparador", me lo imagino aplicado en programas escolares promoviendo la reflexión ambiental, creando instancias de investigación, introduciendo el diseño y la producción 3d de forma temprana, sumando talleres de biomatriales como actores de cambio. Revalorizando los residuos domésticos y gestionandolos de forma mas responsable.
 Viveros, Escuelas, Laboratorios de impresión 3d, Intendencia Departamental, peluquerias caninas, talleres de producción de biomateriales  
 
+En la pestaña *problemática* se amplia el abordaje del problema.
+
 ### **¿Quién lo ha hecho de antemano?**
 
 En el mundo: techos y fachadas verdes, huertas urbanas. 
