@@ -50,7 +50,7 @@ Hace un año y medio casi que nos mudamos a Rivera, nos trasladamos 500km hacia 
 
 ¿Y si pudiese crear un *contenedor acondicionado para el suelo*? Sería con doble muro y cámara de aire, con paredes húmedas, agua a demanda de la planta, con sombra y un sustrato nutrido. 
 
-Se definen ciertos requisitos para:
+Se definen ciertos objetivos a cumplir:
 
 > - Aspectos funcionales: contenedor estanco y resistente, con filtros , capacida de retener agua para aborber cuando necesite la planta, con drenajes para que no se hinunde, material resistente a la temperatura.
 > - **Adaptable** a las superficies existentes.
