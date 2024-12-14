@@ -34,6 +34,14 @@ Maceta "pixel plant" para techos verdes de verde fácil, web:https://verdefacil.
 
 Proyecto de referencia: Tesis de graduación *Ciudades + Verdes* de Santiago Epifanio. Web para descargar el archivo:https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/4745
 
+Proyectos que me inspiran:
+Emerging objects: 
+> - *Torre GEOtube*, habitab especializado para la vida silvestre que prospera con su entorno web: https://emergingobjects.com/project/geotube-tower/
+> - *BALDOSA DE JARDINERA EN CEMENTO* web: https://emergingobjects.com/project/planter-tile-in-cement/
+
+
+
+
 **¿Qué diseñé?**
 Diseñe el contenedor de suelo que se pueda instalar sobre una cubierta de chapa acanalada. El diseño lo realice ne Fusion 360, 
 
