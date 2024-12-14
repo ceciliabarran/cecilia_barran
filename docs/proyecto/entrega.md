@@ -51,13 +51,18 @@ Un sistema que pretende mejorar las condiciones del suelo *en maceta* con el obj
 **¿Qué materiales y componentes se utilizaron?**
 
 ![](../images/ProyectoIntegrador/esquema%20funcional.jpg) 
+
 Materiales: 
-Sustrato nutrido con humus de lombriz, 
-Planta autóctona,
-Módulo plástico construido con PET,
-sistema de auto riego y captación de agua de lluvia.
-Sensor de humedad, controla el riego automático según la necesidad de la planta.
-pelos de perros (residuo de la peluquería canina), material absorvente de humedad.
+Tierra preparada + humus de lombriz  1 kg de cada uno, vivero local total $100,
+Planta $300,
+Módulo impreso en 3d dim: ancho= 20cm por largo=15cm por alto=14cm, contenedor + filtro + tapa, material PET $1300, tiempo de impresión total = 65 horas,
+Base fabricada en CNC $ XX, Tiempo de fabricación: 1hs,
+Electrónica: sistema de auto riego  $1000 + $300 envío (desde Montevideo),
+Arduino Uno + Sensor de humedad (kit Efdi),
+Pelos de perros (residuo de la Veterinaria),
+Depósito inferior de agua: Botella reciclada 2lts.
+Canilla desague $50 + manguera diam. 5mm largo = 1m $ 100
+
 
 **¿Qué partes y sistemas se fabricaron?**
 
