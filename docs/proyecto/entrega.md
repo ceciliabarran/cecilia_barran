@@ -87,19 +87,34 @@ Mediante un proceso sustractivo de corte CNC, se fabricó la base de la maceta e
 
 
 ### **¿Qué procesos se utilizaron?**
-Diseño CAD para modelar y crear prototipo de los múdulos se utilizó Fusion 360
+
+Diseño CAD para modelar y crear el prototipo de los múdulos. Mediante Fusion 360
 Proceso aditivo, impresion 3d. 
 
 ### **¿Qué preguntas se respondieron?**
 
+El sistema mejora las condiciones de humedad del suelo, ampliando el tiempo de suelo humedo?
 
 ### **¿Qué funcionó? y ¿qué no?**
-encastres entre piezas más holgado.
+
+encastres entre piezas, diseño más holgado que facilite el montaje.
 
 ### **¿Cuales son las conslusiones?**
-un aprendizaje total de tecnologís, de registro, de ejecución
+
+Demasiado tiempo para fabricar la pieza, como para pensarlo en una producción masiva. 
+
+Podría experimentar con otro material para el contenedor (cerámica) y mantener la impresión para el filtro y la tapa.  
+
 
 ### **¿Cuáles son los pasos a seguir?**
+
+Completar la electrónica, incorporando un sensor de nivel de agua.
+
+Registrar datos en un tiempo más prolongado y verificar que pasa los días de lluvia con el sistema de drenaje.
+
+Imprimir nuevamente el encastre modificado para verificarlo.
+
+Probar con otro material para el contenedor.
 
 
 
