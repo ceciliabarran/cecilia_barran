@@ -32,7 +32,7 @@ En el mundo: techos y fachadas verdes, huertas urbanas.
 
 Maceta "pixel plant" para techos verdes de verde fácil, web:https://verdefacil.com/ficha-tecnica-verdefacil.com-COMPRIMIDO4.pdf
 
-Proyecto de referencia: Tesis de graduación *Ciudades + Verdes* de Santiago Epifanio. Web para descargar el archivo:https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/4745
+Proyecto de referencia: Tesis de graduación *Ciudades + Verdes* de Santiago Epifanio. Web para descargar el archivo: https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/4745
 
 Proyectos que me inspiran:
 Emerging objects: 
@@ -43,10 +43,10 @@ OXMAN *MAN-NOATA* Ciudades emergentes: A través del crecimiento, las ciudad se 
 
 
 **¿Qué diseñé?**
-Diseñe el contenedor de suelo que se pueda instalar sobre una cubierta de chapa acanalada. El diseño lo realice ne Fusion 360, 
+Un sistema que pretende mejorar las condiciones del suelo *en maceta* con el objetivo que se pueda instalar en las cubiertas de chapa acanalada de las paradas de omnibus de la Ciudad de Rivera y así transformarlas en superficies vivas  brindando condiciones para la biodiversidad urbana. Para mostrar el sistema el prototipo se armó en base a un módulo reducido, independiente. 
 
 **¿Qué materiales y componentes se utilizaron?**
-
+Materiales: 
 Sustrato nutrido con humus de lombriz, 
 Planta autóctona,
 Módulo plástico construido con PET,
