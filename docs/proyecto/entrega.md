@@ -32,7 +32,7 @@ En el mundo: techos y fachadas verdes, huertas urbanas.
 
 Maceta "pixel plant" para techos verdes de verde fácil, web:https://verdefacil.com/ficha-tecnica-verdefacil.com-COMPRIMIDO4.pdf
 
-Proyecto de referencia: Tesis de graduación *Ciudades + Verdes* de Santiago Epifanio. Archivo: file:///C:/Users/Cecilia%20Barr%C3%A1n/OneDrive/Escritorio/postgrado%20FABRICACION%20Y%20DISE%C3%91O%20DIGITAL/proyecto%20integrador/EUCD-Dellepiane_Santiago.pdf
+Proyecto de referencia: Tesis de graduación *Ciudades + Verdes* de Santiago Epifanio. Web para descargar el archivo:https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/4745
 
 **¿Qué diseñé?**
 Diseñe el contenedor de suelo que se pueda instalar sobre una cubierta de chapa acanalada. El diseño lo realice ne Fusion 360, 
