@@ -79,8 +79,11 @@ costo total estimado= $3400
 
 ### **¿Qué partes y sistemas se fabricaron?**
 
-Impresión 3d en lab A rIVERA, se imprimieros la cascara, el filtro y la tapa del contenedor. 
-la barrera absorvente, con tratamiento de pelos de perros,
+En el Lab A de Rivera:
+
+Se utilizó un proceso aditivo de Impresión 3d en tres piezas: el contenedor, el filtro y la tapa. Se realizó una impresión parcial para verificar el encastre diseñado.  
+
+Mediante un proceso sustractivo de corte CNC, se fabricó la base de la maceta en madera.
 
 
 ### **¿Qué procesos se utilizaron?**
