@@ -19,7 +19,7 @@ El texto "Lagartijas de huracán y calamares de plástico" de Thor Hanson fue cl
 
 Inicialmente mi busqueda estaba orientada a regenerar suelo degradado mediante la representación, buscando entender cómo es esa ciudad enterrada, para así poder mediante técnicas de bio remediación poder recuperar el suelo dañado. En el proceso entendí que el suelo no necesita que yo lo represente necesita tiempo para sanar y  mis conocimientos son muy limitados al respecto.  Así que cambié de escala y de enfoque poniendo atención en los demás factores que causan la pérdida de suelo vivo.
 
-LA PERDIDA DE SUELO VIVO NOS AFECTA A TODOS.
+La biodiversidad del suelo cumple un papel fundamental en la evolución de la vida, entender al suelo no solo como un soporte o un recurso agotable nos puede ayudar a protegerlo y respetarlo. Entender al suelo como un organismo vivo es clave ya que *en un gramo de suelo están presentes de 50 a 200 millones de microorganismos, que son el suelo mismo*.
 
 ![](../images/ProyectoIntegrador/biodiversidad.png)
 
