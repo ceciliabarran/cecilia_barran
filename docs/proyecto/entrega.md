@@ -27,7 +27,9 @@ Si bien se mantuvo el tema desde el inicio del curso, la idea fue mutando hasta 
 Viveros, Escuelas, Laboratorios de impresión 3d, la Intendencia, Las peluquerias caninas, 
 
 **¿Quién lo ha hecho de antemano?**
+
 En el mundo: techos y fachadas verdes, huertas urbanas. 
+Proyecto de referencia: Tesis de graduación *Ciudades + Verdes* de Santiago Epifanio. Archivo: file:///C:/Users/Cecilia%20Barr%C3%A1n/OneDrive/Escritorio/postgrado%20FABRICACION%20Y%20DISE%C3%91O%20DIGITAL/proyecto%20integrador/EUCD-Dellepiane_Santiago.pdf
 
 **¿Qué diseñé?**
 Diseñe el contenedor de suelo que se pueda instalar sobre una cubierta de chapa acanalada. El diseño lo realice ne Fusion 360, 
