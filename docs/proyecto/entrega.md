@@ -7,7 +7,7 @@ hide:
 
 ## 1 - Proceso para IDEAR y FABRICAR mi PF
 
-![](../images/ProyectoIntegrador/concepto2.png)
+![](../images/ProyectoIntegrador/que.jpeg)
 
 ### **¿Qué hace?**
 
