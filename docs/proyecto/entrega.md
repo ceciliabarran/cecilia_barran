@@ -84,7 +84,7 @@ costo total estimado= $3400
 
 **Diseño y Prototipo**
 Para el diseño del contenedor se tomó como punto de partida uno de los casos más comunes de cubiertas existentes en Rivera, la chapa acanalada.
-![](../images/ProyectoIntegrador/chapaAcanalada.png)
+
 
 **Fabricación:** 
 Para realizar la fabricación concurrí al Lab A de Rivera, junto con Maxi Torres revisamos los diseños, ajustamos los detalles para imprimir y registramos el proceso.
