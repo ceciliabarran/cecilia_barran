@@ -88,6 +88,8 @@ Para el diseño del contenedor se tomó como punto de partida uno de los casos m
 
 Para lograr el objetivo de crear un contenedor escalable y adaptable se definieron algunos parámetros: largo del contenedor, el alto del sustrato y el espesor del contenedor. 
 
+![](../images/ProyectoIntegrador/f2.jpeg)
+
 **Fabricación:** 
 Para realizar la fabricación concurrí al Lab A de Rivera, junto con Maxi Torres revisamos los diseños, ajustamos los detalles para imprimir y registramos el proceso.
 
