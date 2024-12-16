@@ -93,11 +93,11 @@ Para lograr el objetivo de crear un contenedor *escalable y adaptable* se defini
 
 ![](../images/ProyectoIntegrador/f2.jpeg)
 
-Los encastres los re ajuste despues de verificar que el resultado impreso no era el deseado. Mediante la herramienta *patrón* y definiendo unas medidas en función del parametro previamente determinado, se logró parametrizarlo con el conjunto.
+El diseño del encastre entre piezas,  fue ajustado despues de verificar que el resultado impreso no era el deseado. Mediante la herramienta *patrón* y definiendo unas medidas en función del largo del contenedor, se logró parametrizarlos con el conjunto.
 
 ![](../images/ProyectoIntegrador/f3.jpeg)
 
-Para el diseño del **filtro** pensé en un encastre tipo "tapa", buscando también una pieza parametrizable.
+El diseño del **filtro** se realiza en función del contenedor y su encastre es tipo "tapa", realizando también una pieza parametrizable.
 
  ![](../images/ProyectoIntegrador/f4.jpeg)
 
