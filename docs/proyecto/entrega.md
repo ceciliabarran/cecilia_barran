@@ -84,14 +84,16 @@ costo total estimado= $3400
 
 **Diseño y Prototipo**
 
-En la etapa de diseño asistido por computadora utilicé el programa Fusion 360, una herramienta muy potente para la etapa de prototipado,pero al ser nueva para mi, me llevó bastante tiempo entender el procesos de diseño para lograr un  esketch "prolijo", y sigo aun ajustandolo, para poder llegar a la versión final realicé más de 10 prototipos.
+En la etapa de diseño asistido por computadora utilicé el programa Fusion 360, una herramienta muy potente para la etapa de prototipado,pero al ser nueva para mi, me llevó bastante tiempo entender el procesos de diseño para lograr un  esketch "prolijo", y sigo aun ajustandolo. Para poder llegar a la versión final realicé más de 10 prototipos y aun tiene ajustes por hacer.
 
 Para el diseño del contenedor se tomó como punto de partida uno de los casos más comunes de cubiertas existentes en Rivera, la chapa acanalada.
 ![](../images/ProyectoIntegrador/f1.jpeg)
 
-Para lograr el objetivo de crear un contenedor *escalable y adaptable* se definieron algunos parámetros: largo del contenedor, el alto del sustrato y el espesor del contenedor. 
+Para lograr el objetivo de crear un contenedor *escalable y adaptable* se definieron algunos parámetros: largo del contenedor, el alto del sustrato y el espesor del contenedor. El largo y el alto se modificarían en función de querer más tierra en la maceta. 
 
 ![](../images/ProyectoIntegrador/f2.jpeg)
+
+Los encastres los re ajuste despues de verificar que el resultado impreso no era el deseado. Mediante la herramienta *patrón* y definiendo unas medidas en función del parametro previamente determinado, se logró parametrizarlo con el conjunto.
 
 **Fabricación:** 
 
