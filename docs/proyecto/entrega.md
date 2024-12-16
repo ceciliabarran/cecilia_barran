@@ -84,7 +84,7 @@ costo total estimado= $3400
 
 **Diseño y Prototipo**
 
-En la etapa de diseño asistido por computadora utilicé el programa Fusion 360, una herramienta muy potente para la etapa de prototipado,pero al ser nueva para mi, me llevó bastante tiempo entender el procesos de diseño para lograr un  esketch "prolijo", y sigo aun ajustandolo. Para poder llegar a la versión final realicé más de 10 prototipos y aun tiene ajustes por hacer.
+Realice el diseño en Fusion 360, si bien era una herramienta nueva para mi, con práctica logré entender el procesos de diseño y los comandos claves para realizar los bocetos. Para poder llegar a la versión final realicé más de 10 versiones y aun tiene ajustes por hacer.
 
 Para el diseño del **contenedor** se tomó como punto de partida uno de los casos más comunes de cubiertas existentes en Rivera, la chapa acanalada.
 ![](../images/ProyectoIntegrador/f1.jpeg)
