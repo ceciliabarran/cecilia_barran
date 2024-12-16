@@ -103,6 +103,10 @@ El diseño del **filtro** se realiza en función del contenedor con un encastre 
 
  Para realizar las perforaciones inferiores cree los parámetros "columnas" y "filas" con la idea de poder ajustar su cantidad en función del largo de la pieza. 
 
+ Para el calado vertical, el de las paredes del filtro intenté hacer un diseño más orgánico, pero me resultó más complejo a la hora de parametrizarlo:
+
+ ![](../images/ProyectoIntegrador/f7.png)
+
 **Fabricación:** 
 
 Para realizar la fabricación concurrí al Lab A de Rivera, con la ayuda de Maxi Torres revisamos los diseños, ajustamos los detalles para imprimir y registramos el proceso.
