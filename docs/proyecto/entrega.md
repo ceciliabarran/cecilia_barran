@@ -97,9 +97,11 @@ El diseño del encastre entre piezas,  fue ajustado despues de verificar que el 
 
 ![](../images/ProyectoIntegrador/f3.jpeg)
 
-El diseño del **filtro** se realiza en función del contenedor y su encastre es tipo "tapa", realizando también una pieza parametrizable.
+El diseño del **filtro** se realiza en función del contenedor con un encastre  tipo "tapa", realizando una pieza parametrizable en onjunto.
 
  ![](../images/ProyectoIntegrador/f4.jpeg)
+
+ Para realizar las perforaciones inferiores cree los parámetros "columnas" y "filas" con la idea de poder ajustar su cantidad en función del largo de la pieza. 
 
 **Fabricación:** 
 
