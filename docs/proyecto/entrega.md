@@ -95,6 +95,8 @@ Para lograr el objetivo de crear un contenedor *escalable y adaptable* se defini
 
 Los encastres los re ajuste despues de verificar que el resultado impreso no era el deseado. Mediante la herramienta *patrón* y definiendo unas medidas en función del parametro previamente determinado, se logró parametrizarlo con el conjunto.
 
+![](../images/ProyectoIntegrador/f3.jpeg)
+
 **Fabricación:** 
 
 Para realizar la fabricación concurrí al Lab A de Rivera, con la ayuda de Maxi Torres revisamos los diseños, ajustamos los detalles para imprimir y registramos el proceso.
