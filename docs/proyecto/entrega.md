@@ -84,7 +84,13 @@ costo total estimado= $3400
 
 En el Lab A de Rivera:
 
-Se utilizó un proceso aditivo de Impresión 3d en tres piezas: el contenedor, el filtro y la tapa. Se realizó una impresión parcial para verificar el encastre diseñado.  
+Se utilizó un proceso aditivo de Impresión 3d en tres piezas: el contenedor, el filtro y la tapa. 
+
+![](../images/ProyectoIntegrador/imp1.jpeg)
+
+Se realizó una impresión parcial para verificar el encastre diseñado.  
+
+
 
 Mediante un proceso sustractivo de corte CNC, se fabricó la base de la maceta en madera.
 
