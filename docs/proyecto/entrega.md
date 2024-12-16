@@ -84,9 +84,10 @@ costo total estimado= $3400
 
 **Diseño y Prototipo**
 
-Realice el diseño en Fusion 360, si bien era una herramienta nueva para mi, con práctica logré entender el procesos de diseño y los comandos claves para realizar los bocetos. Para poder llegar a la versión final realicé más de 10 versiones y aun tiene ajustes por hacer.
+Realice el diseño en **Fusion 360**, si bien era una herramienta nueva para mi, con práctica logré entender el procesos de diseño y los comandos claves para realizar los bocetos. Para poder llegar a la versión final realicé más de 10 versiones y aun tiene ajustes por hacer.
 
-Para el diseño del **contenedor** se tomó como punto de partida uno de los casos más comunes de cubiertas existentes en Rivera, la chapa acanalada.
+En el **contenedor** se tomó como punto de partida para su diseño, la forma de la chapa acanalada, uno de los casos más comunes de cubiertas existentes en Rivera.
+
 ![](../images/ProyectoIntegrador/f1.jpeg)
 
 Para lograr el objetivo de crear un contenedor *escalable y adaptable* se definieron algunos parámetros: largo del contenedor, el alto del sustrato y el espesor del contenedor. El largo y el alto se modificarían en función de querer más tierra en la maceta. 
