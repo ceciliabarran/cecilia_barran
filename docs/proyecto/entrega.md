@@ -82,15 +82,20 @@ costo total estimado= $3400
 
 ### **¿Qué partes y sistemas se fabricaron?**
 
-En el Lab A de Rivera:
+Para realizar la fabricación concurrí al Lab A de Rivera, junto con Maxi Torres revisamos los diseños, ajustamos los detalles para imprimir y registramos el proceso.
 
-Se utilizó un proceso aditivo de Impresión 3d en tres piezas: el contenedor, el filtro y la tapa. 
+Se utilizó un proceso aditivo de Impresión 3d en tres piezas: el contenedor, el filtro y la tapa. El material elegido para resistir la temperatura ambiente fue PET G, color blanco.
 
 ![](../images/ProyectoIntegrador/imp1.jpeg)
 
-Se realizó una impresión parcial para verificar el encastre diseñado. 
+Registro de impresión de filtro: 
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1039760238?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="videofiltro"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+Se realizó una impresión parcial de la pieza para verificar el encastre diseñado. 
 
 ![](../images/ProyectoIntegrador/imp2.jpeg)
+
+Se reimprimieron piezas que no quedaron bien:
 
 
 
