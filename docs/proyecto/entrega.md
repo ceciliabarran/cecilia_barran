@@ -82,6 +82,10 @@ costo total estimado= $3400
 
 ### **¿Qué partes y sistemas se fabricaron?**
 
+**Diseño y Prototipo**
+Uno de los requisitos para este proyecto era  
+
+**Fabricación:** 
 Para realizar la fabricación concurrí al Lab A de Rivera, junto con Maxi Torres revisamos los diseños, ajustamos los detalles para imprimir y registramos el proceso.
 
 Se utilizó un proceso aditivo de Impresión 3d en tres piezas: el contenedor, el filtro y la tapa. El material elegido para resistir la temperatura ambiente fue PET G, color blanco.
@@ -95,9 +99,9 @@ Se realizó una impresión parcial de la pieza para verificar el encastre diseñ
 
 ![](../images/ProyectoIntegrador/imp2.jpeg)
 
-Se reimprimieron piezas que no quedaron bien:
+El resultado no es el esperado, si bien el encastre se conecta bien, cuando llega a la mitad se tranca y hay que hacer mucha fuerza para desencastrarlo. Se entiende que la holgura debe ser myor a 0.5mm. Para corregir este error se modifica el diseño aumentando la holgura entre las piezas a 1mm.
 
-
+Se re hicieron piezas que no se lograron imprimir por errores del diseño. Por ejemplo la tapa de la maceta, para corregir el error se cambió el diseño de la pieza.
 
 Mediante un proceso sustractivo de corte CNC, se fabricó la base de la maceta en madera.
 
