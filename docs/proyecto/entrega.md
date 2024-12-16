@@ -88,7 +88,9 @@ Se utilizó un proceso aditivo de Impresión 3d en tres piezas: el contenedor, e
 
 ![](../images/ProyectoIntegrador/imp1.jpeg)
 
-Se realizó una impresión parcial para verificar el encastre diseñado.  
+Se realizó una impresión parcial para verificar el encastre diseñado. 
+
+![](../images/ProyectoIntegrador/imp2.jpeg)
 
 
 
