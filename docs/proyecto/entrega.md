@@ -114,7 +114,7 @@ El diseño del **filtro** se realiza tomando como base el contenedor, su unión 
 
 ![](../images/ProyectoIntegrador/f8.jpeg)
 
- El calado es similar al del filtro, tiene un rebaje en su superficie para colocarle una película de biomaterial. En este caso se realizó una mezcla de gelatina, glicerina y cáscaras de frutas y verduras secas. La idea de incorporar un biomaterial como protección es para sumar materia orgánica a la tierra cuando se descomponga, pero además hacer visible la degradación en si misma. Es una escusa perfecta para sumar reflexión, reciclaje, cocina e intercambio.
+ El calado es similar al del filtro, tiene un rebaje en su superficie para colocarle una película de biomaterial. En este caso se realizó una mezcla de gelatina, glicerina y cáscaras de frutas y verduras secas. La idea de incorporar un **biomaterial** como protección es para sumar materia orgánica a la tierra cuando se descomponga, pero además hacer visible la degradación en si misma. Es una escusa perfecta para sumar reflexión, reciclaje, cocina e intercambio.
 
  ![](../images/ProyectoIntegrador/biom.png)
 
@@ -139,6 +139,11 @@ El resultado no es el esperado, si bien el encastre se conecta bien, cuando lleg
 Se re hicieron piezas que no se lograron imprimir por errores del diseño. Por ejemplo la tapa de la maceta, para corregir el error se cambió el diseño de la pieza.
 
 Mediante un proceso sustractivo de corte CNC, se fabricó la base de la maceta en madera.
+
+**Electrónica:**
+
+El proyecto de electrónica busca reducir el estrés hídrico que sufre la planta por falta de agua.
+Con un sensor de humedad se 
 
 
 ### **¿Qué procesos se utilizaron?**
