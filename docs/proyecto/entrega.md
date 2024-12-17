@@ -150,7 +150,7 @@ La idea es medir y registrar los valores de humedad de una  maceta de plástico 
 
 Se incorpora el sistema de auto riego con la batería y se prueba el código.
 
-![](../images/ProyectoIntegrador/ele1.jpeg)
+![](../images/ProyectoIntegrador/ele2.jpg)
 
 video: "entendiendo el sistema": <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1039878325?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="electronica riego"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
