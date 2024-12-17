@@ -98,7 +98,7 @@ El diseño del encastre entre piezas,  fue ajustado despues de verificar que el 
 
 ![](../images/ProyectoIntegrador/f3.jpeg)
 
-El diseño del **filtro** se realiza en función del contenedor con un encastre  tipo "tapa", realizando una pieza parametrizable en onjunto.
+El diseño del **filtro** se realiza en función del contenedor con un encastre  tipo "tapa", realizando una pieza parametrizable en conjunto.
 
  ![](../images/ProyectoIntegrador/f4.jpeg)
 
@@ -107,6 +107,9 @@ El diseño del **filtro** se realiza en función del contenedor con un encastre 
  Para el calado vertical, el de las paredes del filtro intenté hacer un diseño más orgánico, pero me resultó más complejo a la hora de parametrizarlo:
 
  ![](../images/ProyectoIntegrador/f7.png)
+
+ El diseño de la **tapa** calada, tiene el objetivo de brindar sombra en la hora de radiación más comprometida, sostener al panel solar y crear una película de agua para aves e insectos. 
+ El calado es similar al del filtro, tiene un rebaje en su superficie para colocarle una película de biomaterial. Para este proyecto se realizó la siguiente receta:
 
 **Fabricación:** 
 
