@@ -196,20 +196,16 @@ Me surgen dudas con el tiempo de fabricación total para crear el prototipo, qui
 
 ### **¿Cuales son las conslusiones?**
 
-Demasiado tiempo para fabricar la pieza, como para pensarlo en una producción masiva. 
-
-Podría experimentar con otro material para el contenedor (cerámica) y mantener la impresión para el filtro y la tapa.  
+ 
 
 
 ### **¿Cuáles son los pasos a seguir?**
 
-Completar la electrónica, incorporando un sensor de nivel de agua.
+Completar la electrónica, incorporando un sensor de nivel de agua con semáforo de colores.  Incorporar un sensor de Temperatura del sustrato para complementar el valor de la humedad del suelo.
 
 Registrar datos en un tiempo más prolongado y verificar que pasa los días de lluvia con el sistema de drenaje.
 
 Imprimir nuevamente el encastre modificado para verificarlo.
-
-Probar con otro material para el contenedor.
 
 
 
