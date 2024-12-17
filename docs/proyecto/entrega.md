@@ -142,9 +142,9 @@ Mediante un proceso sustractivo de corte CNC, se fabricó la base de la maceta e
 
 **Electrónica:**
 
-Teniendo en cuenta que el agua es vital para la vida en maceta, el proyecto de electrónica incorpora un sistema de auto riego acorde la necesidad de la planta/ sustrato.
+Teniendo en cuenta que el agua es vital para la vida en maceta, el proyecto de electrónica incorpora un sistema de auto riego acorde a la necesidad de la planta o el sustrato.
 
-Inicialmente  un sensor de humedad recoje los valores de humedad de una maceta 
+La idea es medir los valores de humedad de una  maceta de plástico  y registrarlos. Para luego compararlos con los valores de humedad del prototipo y contrastarlos.
 
 
 ### **¿Qué procesos se utilizaron?**
