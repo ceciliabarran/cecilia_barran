@@ -142,8 +142,9 @@ Mediante un proceso sustractivo de corte CNC, se fabricó la base de la maceta e
 
 **Electrónica:**
 
-El proyecto de electrónica busca reducir el estrés hídrico que sufre la planta por falta de agua.
-Con un sensor de humedad se 
+Teniendo en cuenta que el agua es vital para la vida en maceta, el proyecto de electrónica incorpora un sistema de auto riego acorde la necesidad de la planta/ sustrato.
+
+Inicialmente  un sensor de humedad recoje los valores de humedad de una maceta 
 
 
 ### **¿Qué procesos se utilizaron?**
