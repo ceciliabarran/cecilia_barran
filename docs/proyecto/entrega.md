@@ -84,7 +84,7 @@ costo total estimado= $3400
 
 **Diseño y Prototipo**
 
-Realice el diseño en **Fusion 360**, si bien era una herramienta nueva para mi, con práctica logré entender el procesos de diseño y los comandos claves para realizar los bocetos. Para poder llegar a la versión final realicé más de 10 versiones y aun tiene ajustes por hacer.
+Realice el diseño en **Fusión 360**, si bien era una herramienta nueva para mí, con práctica logré entender el proceso de diseño y los comandos claves para realizar los bocetos. Para poder llegar a la versión final realicé más de 10 versiones y aún tiene ajustes por hacer.
 
 En el **contenedor** se tomó como punto de partida para su diseño, la forma de la chapa acanalada, uno de los casos más comunes de cubiertas existentes en Rivera.
 
@@ -94,11 +94,13 @@ Para lograr el objetivo de crear un contenedor *escalable y adaptable* se defini
 
 ![](../images/ProyectoIntegrador/f2.jpeg)
 
-El diseño del encastre entre piezas,  fue ajustado despues de verificar que el resultado impreso no era el deseado. Mediante la herramienta *patrón* y definiendo unas medidas en función del largo del contenedor, se logró parametrizarlos con el conjunto.
+El encastre entre módulos se da por "encaje", con la impresión de la pieza se verificó su funcionamiento y se hicieron ajustes para lograr un armado más holgado.
+
+ Mediante la herramienta *patrón* y definiendo unas medidas en función del largo del contenedor, se logró parametrizarlos con el conjunto.
 
 ![](../images/ProyectoIntegrador/f3.jpeg)
 
-El diseño del **filtro** se realiza en función del contenedor con un encastre  tipo "tapa", realizando una pieza parametrizable en conjunto.
+El diseño del **filtro** se realiza tomando como base el contenedor, su unión es mediante un encastre  tipo "tapa". Logrando ser ambas piezas parametrizables en conjunto.
 
  ![](../images/ProyectoIntegrador/f4.jpeg)
 
