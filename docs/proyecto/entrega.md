@@ -211,7 +211,7 @@ Imprimir nuevamente el encastre modificado para verificarlo.
 
 ## 2 - Presentación, 5 slides.
 
-Enlace a mi presentación:
+Enlace a mi presentación (EN PROCESO): https://docs.google.com/presentation/d/1kQ2y0fpqecpEQlJla_X6IUQJuFRPDfngLsWjQ3vbZLY/edit?usp=sharing
 
 ## 3 - VIDEO, 1 min.
 
