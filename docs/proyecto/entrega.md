@@ -113,6 +113,8 @@ El diseño del **filtro** se realiza tomando como base el contenedor, su unión 
  El diseño de la **tapa** calada, tiene el objetivo de brindar sombra en la hora de radiación más comprometida, sostener al panel solar y crear una película de agua para aves e insectos. 
  El calado es similar al del filtro, tiene un rebaje en su superficie para colocarle una película de biomaterial. En este caso se realizó una mezcla de gelatina, glicerina y cáscaras de frutas y verduras secas. La idea de incorporar un matrial que se degradará con el tiempo tiene la función de sumar materia orgánica a la tierra, pero además hacer visible el degradación en si misma. Es una escusa perfecta para sumar reflexión, reciclaje, cocina e intercambio.
 
+ ![](../images/ProyectoIntegrador/biom.jpeg)
+
 **Fabricación:** 
 
 Para realizar la fabricación concurrí al Lab A de Rivera, con la ayuda de Maxi Torres revisamos los diseños, ajustamos los detalles para imprimir y registramos el proceso.
