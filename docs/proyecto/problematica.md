@@ -11,9 +11,9 @@ hide:
 **Hasta el 40% de las tierras del mundo están degradadas**, *lo que significa que su productividad biológica o económica se ha reducido.*
 https://news.un.org/es/story/2024/12/1534741
 
-Es una pérdida invisible, es silenciosa, no aparece en el informativo.
+Es una pérdida invisible, es silenciosa, sin repercución mediática.
 
-La naturaleza está en constante movimiento, evolucionando generación tras generación. Moviéndose para sobrevivir y adaptarse a los cambios. Pero ¿qué pasa con las especies que no se pueden adaptar ni trasladar?, o aquellas que necesitan de la ayuda de otras especies para esparcirse y sus vehículos se extinguen.
+La naturaleza está en constante movimiento, evolucionando generación tras generación. Moviéndose para sobrevivir y adaptarse a los cambios. Pero ¿qué pasa con las especies que no se pueden adaptar ni trasladar, o aquellas que necesitan de la ayuda de otras especies para esparcirse y sus vehículos se extinguen?.
 
 El texto "Lagartijas de huracán y calamares de plástico" de Thor Hanson fue clave para cambiar la perspectiva de mi proyecto. La forma en que los animales y las plantan están respondiendo al cambio climático es asombroso, moviendose, adaptándose o evolucionando. Comparto el texto:  https://thorhanson.net/hurricane-lizards 
 
