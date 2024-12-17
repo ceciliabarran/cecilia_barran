@@ -116,7 +116,7 @@ El diseño del **filtro** se realiza tomando como base el contenedor, su unión 
 
  El calado es similar al del filtro, tiene un rebaje en su superficie para colocarle una película de biomaterial. En este caso se realizó una mezcla de gelatina, glicerina y cáscaras de frutas y verduras secas. La idea de incorporar un matrial que se degradará con el tiempo tiene la función de sumar materia orgánica a la tierra, pero además hacer visible el degradación en si misma. Es una escusa perfecta para sumar reflexión, reciclaje, cocina e intercambio.
 
- ![](../images/ProyectoIntegrador/biom.jpeg)
+ ![](../images/ProyectoIntegrador/biom.png)
 
 **Fabricación:** 
 
