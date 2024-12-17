@@ -86,7 +86,7 @@ costo total estimado= $3400
 
 Realice el diseño en **Fusión 360**, si bien era una herramienta nueva para mí, con práctica logré entender el proceso de diseño y los comandos claves para realizar los bocetos. Para poder llegar a la versión final realicé más de 10 versiones y aún tiene ajustes por hacer.
 
-En el **contenedor** se tomó como punto de partida para su diseño, la forma de la chapa acanalada, uno de los casos más comunes de cubiertas existentes en Rivera.
+Para realizar el diseño del **contenedor** se tomó como punto de partida la forma ondulada de la chapa acanalada, uno de los casos más comunes de cubiertas existentes en Rivera.
 
 ![](../images/ProyectoIntegrador/f1.jpeg)
 
