@@ -164,11 +164,11 @@ completar!!
 La reserva de agua inferior es fundamental para asegurar el abastecimiento del contenedor. Para el prototipo se recicla una botella de bebida de 2lt se le agrega la bomba de 5v, sumergida y la cañería de subida de agua y la de bajada de agua. 
 
 Pensando el sistema adaptado a la parada de omnibus, la reserva inferior sería debajo del banco de hormigón. El bidón de agua debería ser de un material resistente, de medidas máximas : ancho:1m por largo:0.60m por alto: 0.30m para mantener el banco existente. Deberia incluir una bomba sumergible de 1 caballo aprox, mangueras para canalizar el circuito del agua, un rebose para canalizar el exceso de agua al cordón. Un sistema de abastecimiento alternativo, para la época de sequía, siendo preferible que sea de algun arroyo cercano y no del abastecimiento de ose.
+Debería incorporar un sistema de control del nivel del agua, con un semáforo de colores indicando el estado del nivel del agua mediante luces led para que el encargado del mantenimiento realice las acciones que sesn necesarias para garantizar el funcionamiento.
 
 ### **¿Qué procesos se utilizaron?**
 
-Diseño CAD para modelar y crear el prototipo de los múdulos. Mediante Fusion 360
-Proceso aditivo, impresion 3d. 
+
 
 ### **¿Qué preguntas se respondieron?**
 
