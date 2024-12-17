@@ -56,7 +56,7 @@ Se definen ciertos objetivos a cumplir:
 
 > - Aspectos funcionales: contenedor estanco y resistente, con filtros , capacida de retener agua para aborber cuando necesite la planta, con drenajes para que no se hinunde, material resistente a la temperatura.
 > - **Adaptable** a las superficies existentes.
-> - Incorporar un sistema de recolección de agua de lluvia y riego automático en función de la necesidad del sustrato. Con el objetivo de minimizar el stres que sufre la planta por falta de agua.
+> - Incorporar un sistema de recolección de agua de lluvia y riego automático en función de la necesidad del sustrato. Con el objetivo de minimizar el estrés que sufre la planta por falta de agua.
 > - Incorporar energías renovables.
 > - Aplicable en programas de huerta de escuelas, escalable a equipamiento urbano. 
 > - Reutilizar residuos domiciliarios y fomentar los biomateriales como agentes de cambio.
