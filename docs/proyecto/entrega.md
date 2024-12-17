@@ -184,7 +184,15 @@ El sistema mejora las condiciones de humedad del suelo, ampliando el tiempo de s
 
 ### **¿Qué funcionó? y ¿qué no?**
 
-encastres entre piezas, diseño más holgado que facilite el montaje.
+Funcionó la electrónica y el sistema de auto riego.
+
+No funciono el encastre entre piezas, es preciso un diseño más holgado que facilite el montaje. Se ajustó el diseño en fusión, queda  pendiente volver a imprimir sector para verificar.
+
+La parametrización del calado vertical en el filtro y la tapa no funcionó aun, no se ajusta al nuevo tamaño de la pieza, se deforma. 
+
+Me surgen dudas con el tiempo de fabricación total para crear el prototipo, quizas es excesivo. Se podría probar construir el contenedor con otro material, por ejemplo en un sistema de moldes?
+
+ 
 
 ### **¿Cuales son las conslusiones?**
 
