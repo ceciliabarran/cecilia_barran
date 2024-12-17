@@ -168,7 +168,7 @@ Debería incorporar un sistema de control del nivel del agua, con un semáforo d
 
 *La reserva de agua superior* se da en el propio contenedor y es la primer respuesta en caso de sequía. El agua que llega por lluvia o por riego, se almacena  en la base del contenedor y en los laterales del filtro que están acondicionados con un material que mantiene la humedad, pelo de perros. Los pelos son recogidos de la veterinaria, donde diariamente desechan xx kg de pelo, aumentando este dato en épocas de calor.
 
-**barrera húmeda**
+**Barrera Húmeda**
 
 Para acondicionar el filtro se elije un material que en la actualidad es desecho, buscando fomentar la economía circular.
 
@@ -210,6 +210,8 @@ Imprimir nuevamente el encastre modificado para verificarlo.
 
 
 ## 2 - Presentación, 5 slides.
+
+Enlace a mi presentación:
 
 ## 3 - VIDEO, 1 min.
 
