@@ -168,7 +168,7 @@ Debería incorporar un sistema de control del nivel del agua, con un semáforo d
 
 ### **¿Qué procesos se utilizaron?**
 
-
+![](../images/ProyectoIntegrador/proc.png)
 
 ### **¿Qué preguntas se respondieron?**
 
