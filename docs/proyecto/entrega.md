@@ -161,7 +161,9 @@ completar!!
 
 **Reserva de agua**
 
-La reserva de agua inferior es fundamental para asegurar el abastecimiento del contenedor. Para el prototipo se recicla una botella de bebida de 2lt. Se le agrega la bomba de 5v, sumergida y la cañería de subida de agua y la de bajada de agua. Se debe incluir un rebose para evitar desbordes
+La reserva de agua inferior es fundamental para asegurar el abastecimiento del contenedor. Para el prototipo se recicla una botella de bebida de 2lt se le agrega la bomba de 5v, sumergida y la cañería de subida de agua y la de bajada de agua. 
+
+Pensando el sistema adaptado a la parada de omnibus, la reserva inferior sería debajo del banco de hormigón. El bidón de agua debería ser de medidas: ancho:1m por largo:0.60m por alto: 0.30m como máximo, para mantener el banco existente.Deberia incluir una bomba sumergible de 1 caballo aprox, mangueras para canalizar el circuito del agua, un rebose para canalizar el exceso de agua al cordón. Un sistema de abastecimiento alternativo, para la época de sequia, siendo preferible que sea de algun arroyo cercano, no del abastecimiento de ose.
 
 ### **¿Qué procesos se utilizaron?**
 
