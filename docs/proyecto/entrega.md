@@ -201,7 +201,7 @@ Me surgen dudas con el tiempo de fabricación total para crear el prototipo, qui
 
 ### **¿Cuáles son los pasos a seguir?**
 
-Completar la electrónica, incorporando un sensor de nivel de agua con semáforo de colores.  Incorporar un sensor de Temperatura del sustrato para complementar el valor de la humedad del suelo.
+Completar la electrónica, incorporando un sensor de nivel de agua en la reserva inferior con semáforo de colores.  Incorporar un sensor de Temperatura del sustrato para complementar el valor de la humedad del suelo.
 
 Registrar datos en un tiempo más prolongado y verificar que pasa los días de lluvia con el sistema de drenaje.
 
