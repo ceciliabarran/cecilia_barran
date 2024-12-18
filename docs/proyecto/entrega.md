@@ -198,16 +198,17 @@ Funcionó la programación y el sistema de auto riego con batería. No se instal
 
 No funciono el encastre entre piezas, es preciso un diseño más holgado que facilite el montaje. Se ajustó el diseño en fusión, queda  pendiente volver a imprimir sector para verificar.
 
-La parametrización del calado vertical en el filtro y la tapa no funcionó aun, el diseño del filtro no se ajusta a un nuevo tamaño de la pieza, se deforma. 
+La parametrización del calado vertical en el filtro y la tapa no funcionó aún, el diseño del filtro no se ajusta a un nuevo tamaño de la pieza, se deforma. 
 
-Me surgen dudas con el tiempo de fabricación total para crear el prototipo, quizas es excesivo. Se podría probar construir el contenedor con otro material, por ejemplo en un sistema de moldes?
+Me surgen dudas con el tiempo de fabricación total para crear el prototipo, quizás es excesivo. ¿Se podría probar construir el contenedor con otro material, por ejemplo en un sistema de moldes?
 
  
 
 ### **¿Cuales son las conslusiones?**
-El proyecto más que un producto terminado es un primer prototipo por lo tanto hay muucho par ajustar y corregir en el diseño y en la electrónica.
-El aprendizaje de nuevas tecnologías y técnicas fue muy enrriquecedor y haber logrado realizar esta primer maqueta fue un gran logro para mi, porque arranque de cero, sin un proyecto anterior, 
-sin conocimientos en electrónica y programación sin manejar fusión 360 y siendo completamente gris.
+
+El proyecto más que un producto terminado es un primer prototipo por lo tanto hay muucho par ajustar y corregir en el diseño y en la electrónica. Para saber si realmente se valida la hipótesis sería preciso hacer un seguimiento del prototipo y de una maceta común para comparar los valores en iguales condiciones ambientales.  
+
+El aprendizaje de nuevas tecnologías y técnicas fue muy enrriquecedor. Haber logrado realizar esta primer maqueta en un tiempo tan corto fue un logro.
 
  
 
