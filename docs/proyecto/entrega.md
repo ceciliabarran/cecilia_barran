@@ -157,8 +157,9 @@ video: "entendiendo el sistema": <div style="padding:75% 0 0 0;position:relative
 
 Se instala el sistema de riego en la base de la maceta, para ello se consigue una caja estanca para contener los componentes.
 
-Valores obtenidos: 
-completar!!
+Se realizan las conexiones y se verifica el código:
+
+![](../images/ProyectoIntegrador/ardproto.png)
 
 **Doble Reserva de agua**
 
