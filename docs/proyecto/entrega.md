@@ -222,13 +222,13 @@ Mas que un producto es una excusa para crear conciencia ambiental.
 
 <ol>
 
+<li> Realizar dos seguimientos en simultaneo, el prototipo vs maceta tradicional y comparar los resultados. </li>
+
 <li> Completar la electrónica, incorporando un sensor de nivel de agua en la reserva inferior con semáforo de colores.  Incorporar un sensor de Temperatura del sustrato para complementar el valor de la humedad del suelo. </li>
 
 <li> Registrar datos en un tiempo más prolongado y verificar que pasa los días de lluvia con el sistema de drenaje. </li>
 
 <li> Imprimir nuevamente el encastre modificado para verificarlo.</li>
-
-<li> Realizar dos seguimientos en simultaneo, el prototipo vs maceta tradicional y comparar los resultados. </li>
 
 <li> Realizar una interface para leer los valores de humedad. </li> 
 
