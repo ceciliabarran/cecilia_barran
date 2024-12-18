@@ -80,6 +80,7 @@ Materiales:
 costo total estimado= $3400
 
 
+
 ### **¿Qué partes y sistemas se fabricaron?**
 
 **Diseño y Prototipo**
@@ -172,9 +173,12 @@ Debería incorporar un sistema de control del nivel del agua, con un semáforo d
 
 **Barrera Húmeda**
 
-Para acondicionar el filtro se elije un material que en la actualidad es desecho, buscando fomentar la economía circular.
+Como material absorvente de humedad se experimeta con pelor de perro, desecho de las peluquerías caninas, según la información que brinda la veterinaria, se tiran a la basura 10kg de pelo en época de verano. Incorporando este residuo al proyecto se busca fomentar la economía circular del barrio.
+
 
 ![](../images/ProyectoIntegrador/pelo.png)
+
+
 
 ### **¿Qué procesos se utilizaron?**
 
@@ -182,7 +186,8 @@ Para acondicionar el filtro se elije un material que en la actualidad es desecho
 
 ### **¿Qué preguntas se respondieron?**
 
-El sistema mejora las condiciones de humedad del suelo, ampliando el tiempo de suelo humedo?
+¡El sistema mejora las condiciones de humedad del suelo, ampliando el tiempo de suelo humedo?
+El contenedor armado con la planta y el sustrato tiene un peso de 1880kg, en 
 
 ### **¿Qué funcionó? y ¿qué no?**
 
