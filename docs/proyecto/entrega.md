@@ -207,14 +207,14 @@ Me surgen dudas con el tiempo de fabricación total para crear el prototipo, qui
 
 ### **¿Cuales son las conslusiones?**
 
-El proyecto, más que un producto terminado, es un primer prototipo; por lo tanto, aún hay muucho par ajustar y corregir tanto en el diseño como en la electrónica, por el tiempo que lleva la elaboración. 
-Para saber si realmente se valida la hipótesis sería preciso hacer un seguimiento en simultaneo del prototipo y de una maceta común para comparar los valores en iguales condiciones ambientales.  
+El proyecto, más que un producto terminado, es un primer prototipo; por lo tanto, aún hay muucho par ajustar y corregir tanto en el diseño como en la electrónica, debido al poco tiempo que tuve para elaborarlo. En la útima etapa del curso logré encaminar cual sería el prototipo a elaborar. 
+Para validar la hipótesis, sería necesario realizar un seguimiento simultáneo del prototipo y de una maceta común, comparando los valores bajo las mismas condiciones ambientales.  
 
-El aprendizaje de nuevas tecnologías y herramientas fue muy enrriquecedor. Haber logrado realizar esta primer maqueta en un tiempo tan corto fue un logro.
+El aprendizaje de nuevas tecnologías y herramientas ha sido muy enrriquecedor e intenso. Haber logrado redesarrollar este primer prototipo en un tiempo tan corto fue todo un logro.
 
-Pensando en todos los procesos que se realizaron para hacer este prototipo, me parece que no es muy rentable escalarlo para aplicarlo en superficies grandes. 
-Pero no quita que sea un proyecto aplicable a un progrma escolar, sumado a la dimensión ambiental del programa tradicional, aportando etapas de investigación y puesta en práctica. En una nueva versión puede cambiar el diseño, puede mejorar la electrónica, suma instancias de talleres de 
-recolección y elaboración de residuos de la cocina, 
+Pensando en todos los procesos involucrados en la creación de este prototipo, me parece que no es económicamente rentable escalarlo para su aplicación en superficies grandes. 
+Sin embargo, me parece que es un proyecto aplicable a un progrma escolar, integrandose a la dimensión ambiental del programa tradicional, aportando tanto en la etapa de investigación como en la puesta en práctica. En una nueva versión, se podría mejorar el diseño y  la electrónica, sumar instancias de talleres de 
+recolección de pelos de las veterinarias y elaboración de biomateriales con residuos de la cocina. 
 
 
 ### **¿Cuáles son los pasos a seguir?**
