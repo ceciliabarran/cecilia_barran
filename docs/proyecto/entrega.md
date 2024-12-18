@@ -155,11 +155,13 @@ Se incorpora el sistema de auto riego con su batería (4 pilas AAA) y se prueba 
 
 video: "entendiendo el sistema": <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1039878325?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="electronica riego"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-Se instala el sistema de riego en la base de la maceta, para ello se consigue una caja estanca para contener los componentes.
+Se instala el sistema de riego en la base de la maceta, para ello se consigue una caja estanca para contener los componentes. Se realiza monitoreo de los valores obtenidos y se los compara con las mediciones en maceta común.
 
 Se realizan las conexiones y se verifica el código:
 
 ![](../images/ProyectoIntegrador/ardproto.png)
+
+![](../images/ProyectoIntegrador/esquemaelectornica.png)
 
 **Doble Reserva de agua**
 
