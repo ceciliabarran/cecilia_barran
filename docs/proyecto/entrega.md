@@ -215,6 +215,7 @@ El aprendizaje de nuevas tecnologías y herramientas ha sido muy enrriquecedor e
 Pensando en todos los procesos involucrados en la creación de este prototipo, me parece que no es económicamente rentable escalarlo para su aplicación en superficies grandes. 
 Sin embargo, me parece que es un proyecto aplicable a un progrma escolar, integrandose a la dimensión ambiental del programa tradicional, aportando tanto en la etapa de investigación como en la puesta en práctica. En una nueva versión, se podría mejorar el diseño y  la electrónica, sumar instancias de talleres de 
 recolección de pelos de las veterinarias y elaboración de biomateriales con residuos de la cocina. 
+Mas que un producto es una excusa para crear conciencia ambiental.
 
 
 ### **¿Cuáles son los pasos a seguir?**
