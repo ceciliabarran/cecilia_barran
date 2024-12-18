@@ -207,9 +207,10 @@ Me surgen dudas con el tiempo de fabricación total para crear el prototipo, qui
 
 ### **¿Cuales son las conslusiones?**
 
-El proyecto más que un producto terminado es un primer prototipo por lo tanto hay muucho par ajustar y corregir en el diseño y en la electrónica. Para saber si realmente se valida la hipótesis sería preciso hacer un seguimiento del prototipo y de una maceta común para comparar los valores en iguales condiciones ambientales.  
+El proyecto más que un producto terminado es un primer prototipo por lo tanto hay muucho par ajustar y corregir en el diseño y en la electrónica. 
+Para saber si realmente se valida la hipótesis sería preciso hacer un seguimiento en simultaneo del prototipo y de una maceta común para comparar los valores en iguales condiciones ambientales.  
 
-El aprendizaje de nuevas tecnologías y técnicas fue muy enrriquecedor. Haber logrado realizar esta primer maqueta en un tiempo tan corto fue un logro.
+El aprendizaje de nuevas tecnologías y herramientas fue muy enrriquecedor. Haber logrado realizar esta primer maqueta en un tiempo tan corto fue un logro.
 
 Pensando en todos los procesos que se realizaron para hacer este prototipo, no es rentable escalarlo para aplicarlo en superficies grandes. 
 Pero no quita que sea un proyecto aplicable a un progrma escolar, sumando dimensión ambiental AMBIENTAL al programa tradicional, investigación y practica. Puede cambiar el diseño, puede mejorar la electrónica, suma talleres de 
