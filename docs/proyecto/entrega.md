@@ -77,7 +77,8 @@ Materiales:
 
 > Biomaterial en base a gelatina y residuos de la cocina. $300
 
-costo total estimado= $3400
+Costo total estimado= $3400
+Peso del prototipo seco= 1880kg. 
 
 
 
@@ -190,7 +191,7 @@ Como material absorvente de humedad se experimeta con pelor de perro, desecho de
 ### **¿Qué preguntas se respondieron?**
 
 ¿El sistema mejora las condiciones de humedad del suelo, ampliando el tiempo de suelo humedo?
-El contenedor armado con la planta y el sustrato tiene un peso de 1880kg, seco. 
+
 
 ### **¿Qué funcionó? y ¿qué no?**
 
