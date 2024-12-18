@@ -205,7 +205,7 @@ Me surgen dudas con el tiempo de fabricación total para crear el prototipo, qui
 
  
 
-### **¿Cuales son las conslusiones?**
+### **¿Cuáles son las conclusiones?**
 
 El proyecto, más que un producto terminado, es un primer prototipo; por lo tanto, aún hay muucho par ajustar y corregir tanto en el diseño como en la electrónica, debido al poco tiempo que tuve para elaborarlo. En la útima etapa del curso logré encaminar cual sería el prototipo a elaborar. 
 Para validar la hipótesis, sería necesario realizar un seguimiento simultáneo del prototipo y de una maceta común, comparando los valores bajo las mismas condiciones ambientales.  
