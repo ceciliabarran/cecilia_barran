@@ -209,6 +209,8 @@ Imprimir nuevamente el encastre modificado para verificarlo.
 
 Realizar dos seguimientos en simultaneo, el prototipo vs maceta tradicional y comparar los resultados.
 
+Realizar una interface para leer los valores de humedad.
+
 ## 2 - Presentación, 5 slides.
 
 Enlace a mi presentación (EN PROCESO): https://docs.google.com/presentation/d/1kQ2y0fpqecpEQlJla_X6IUQJuFRPDfngLsWjQ3vbZLY/edit?usp=sharing
