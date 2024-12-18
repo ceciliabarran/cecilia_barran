@@ -184,11 +184,11 @@ El sistema mejora las condiciones de humedad del suelo, ampliando el tiempo de s
 
 ### **¿Qué funcionó? y ¿qué no?**
 
-Funcionó la electrónica y el sistema de auto riego.
+Funcionó la electrónica y el sistema de auto riego con batería. No se instaló ek panel solar.
 
 No funciono el encastre entre piezas, es preciso un diseño más holgado que facilite el montaje. Se ajustó el diseño en fusión, queda  pendiente volver a imprimir sector para verificar.
 
-La parametrización del calado vertical en el filtro y la tapa no funcionó aun, no se ajusta al nuevo tamaño de la pieza, se deforma. 
+La parametrización del calado vertical en el filtro y la tapa no funcionó aun, el diseño del filtro no se ajusta a un nuevo tamaño de la pieza, se deforma. 
 
 Me surgen dudas con el tiempo de fabricación total para crear el prototipo, quizas es excesivo. Se podría probar construir el contenedor con otro material, por ejemplo en un sistema de moldes?
 
@@ -207,7 +207,7 @@ Registrar datos en un tiempo más prolongado y verificar que pasa los días de l
 
 Imprimir nuevamente el encastre modificado para verificarlo.
 
-
+Realizar dos seguimientos en simultaneo, el prototipo vs maceta tradicional y comparar los resultados.
 
 ## 2 - Presentación, 5 slides.
 
