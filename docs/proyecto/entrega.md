@@ -166,6 +166,8 @@ completar!!
 Pensando el sistema adaptado a la parada de omnibus, la reserva inferior sería debajo del banco de hormigón. El bidón de agua debería ser de un material resistente, de medidas máximas : ancho:1m por largo:0.60m por alto: 0.30m para mantener el banco existente. Deberia incluir una bomba sumergible de 1 caballo aprox, mangueras para canalizar el circuito del agua, un rebose para canalizar el exceso de agua al cordón. Un sistema de abastecimiento alternativo, para la época de sequía, siendo preferible que sea de algun arroyo cercano y no del abastecimiento de ose.
 Debería incorporar un sistema de control del nivel del agua, con un semáforo de colores indicando el estado del nivel del agua mediante luces led para que el encargado del mantenimiento realice las acciones que sean necesarias para garantizar el funcionamiento.
 
+![](../images/ProyectoIntegrador/aguainf.jpeg)
+
 *La reserva de agua superior* se da en el propio contenedor y es la primer respuesta en caso de sequía. El agua que llega por lluvia o por riego, se almacena  en la base del contenedor y en los laterales del filtro que están acondicionados con un material que mantiene la humedad, pelo de perros. Los pelos son recogidos de la veterinaria, donde diariamente desechan xx kg de pelo, aumentando este dato en épocas de calor.
 
 **Barrera Húmeda**
