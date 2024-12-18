@@ -189,12 +189,12 @@ Como material absorvente de humedad se experimeta con pelor de perro, desecho de
 
 ### **¿Qué preguntas se respondieron?**
 
-¡El sistema mejora las condiciones de humedad del suelo, ampliando el tiempo de suelo humedo?
-El contenedor armado con la planta y el sustrato tiene un peso de 1880kg, en 
+¿El sistema mejora las condiciones de humedad del suelo, ampliando el tiempo de suelo humedo?
+El contenedor armado con la planta y el sustrato tiene un peso de 1880kg, seco. 
 
 ### **¿Qué funcionó? y ¿qué no?**
 
-Funcionó la electrónica y el sistema de auto riego con batería. No se instaló ek panel solar.
+Funcionó la programación y el sistema de auto riego con batería. No se instaló el panel solar.
 
 No funciono el encastre entre piezas, es preciso un diseño más holgado que facilite el montaje. Se ajustó el diseño en fusión, queda  pendiente volver a imprimir sector para verificar.
 
@@ -205,6 +205,9 @@ Me surgen dudas con el tiempo de fabricación total para crear el prototipo, qui
  
 
 ### **¿Cuales son las conslusiones?**
+El proyecto más que un producto terminado es un primer prototipo por lo tanto hay muucho par ajustar y corregir en el diseño y en la electrónica.
+El aprendizaje de nuevas tecnologías y técnicas fue muy enrriquecedor y haber logrado realizar esta primer maqueta fue un gran logro para mi, porque arranque de cero, sin un proyecto anterior, 
+sin conocimientos en electrónica y programación sin manejar fusión 360 y siendo completamente gris.
 
  
 
