@@ -243,7 +243,7 @@ Descargá los archivos utilizados:
 
 
 
-[enlace a arduino](https://drive.google.com/drive/folders/1aKDGhdVGx5iYooXsfaNzDu9tqxai3WKK?usp=sharing)
+[enlace a arduino](https://drive.google.com/file/d/19qD6yvAID3QB7pGHWHAsTJyE_ZvJB1r1/view?usp=drive_link)
 
 ### **2. PRESENTACIÓN FINAL, 5 slides:**
 
