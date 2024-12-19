@@ -234,7 +234,7 @@ Mas que un producto es una excusa para crear conciencia ambiental.
 
 ## 3. ARCHIVOS
 
-Enlace a Arduino: 
+Enlace a Código de Arduino utilizado: 
 
 Enlace a Diseño del contenedor en fusión 360: 
 
