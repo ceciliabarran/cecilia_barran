@@ -232,13 +232,14 @@ Mas que un producto es una excusa para crear conciencia ambiental.
 
 <li> Realizar una interface para leer los valores de humedad. </li> 
 
-## 3. ARCHIVOS
+## > . 3 ARCHIVOS
 
-Enlace a Código de Arduino utilizado: 
+Descargá los archivos utilizados:
 
-[enlace a archivos](https://drive.google.com/drive/folders/1vZzw2Zic_T7K80Vp6FcvTrJbyluFCVac?usp=sharing)
 
-Enlace a Diseño del contenedor en fusión 360: 
+[enlace a archivos de diseño](https://drive.google.com/drive/folders/1vZzw2Zic_T7K80Vp6FcvTrJbyluFCVac?usp=sharing)
+
+
 
 [enlace a arduino](https://drive.google.com/drive/folders/1aKDGhdVGx5iYooXsfaNzDu9tqxai3WKK?usp=sharing)
 
