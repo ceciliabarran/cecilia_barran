@@ -5,7 +5,7 @@ hide:
 
 # **Entrega Proyecto Final**
 
-## 1. Proceso para IDEAR y FABRICAR mi PF
+## 1. PROCESO para IDEAR y FABRICAR mi PF
 
 ![](../images/ProyectoIntegrador/que.jpeg)
 
@@ -238,13 +238,13 @@ Enlace a Código de Arduino utilizado:
 
 Enlace a Diseño del contenedor en fusión 360: 
 
+## 2. PRESENTACIÓN FINAL, 5 slides:
 
-## 2. PRESENTACIÓN FINAL, 5 slides.
 
 [Enlace Presentación final Cecilia Barrán:](https://docs.google.com/presentation/d/1yBmt4ILQQ4jrIFuAKHIfpWOAvmuP4XNK/edit?usp=sharing&ouid=112520178824516736932&rtpof=true&sd=true) 
 
 
-## 3. VIDEO, 1 min.
+## 3. VIDEO, 1 minuto:
 
 
 
