@@ -232,7 +232,9 @@ Mas que un producto es una excusa para crear conciencia ambiental.
 
 <li> Realizar una interface para leer los valores de humedad. </li> 
 
-** 3 ARCHIVOS**
+
+## 2. ARCHIVOS
+
 
 Descargá los archivos utilizados:
 
