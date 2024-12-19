@@ -239,17 +239,10 @@ Mas que un producto es una excusa para crear conciencia ambiental.
 
 <a href="https://drive.google.com/drive/folders/1vZzw2Zic_T7K80Vp6FcvTrJbyluFCVac?usp=sharing" target="_blank">Enlace a archivos del prototipo</a><br>
 
-<a href="URL_DE_ARDUINO" target="_blank">Enlace a Arduino</a>
+<a href="https://drive.google.com/file/d/19qD6yvAID3QB7pGHWHAsTJyE_ZvJB1r1/view?usp=drive_link" target="_blank">Enlace a Arduino</a><br>
 
 
-
-
-
-
-
-[enlace a arduino](https://drive.google.com/file/d/19qD6yvAID3QB7pGHWHAsTJyE_ZvJB1r1/view?usp=drive_link)
-
-### **2. PRESENTACIÓN FINAL, 5 slides:**
+<h2>3. PRESENTACIÓN FINAL, 5 slides</h2>
 
 
 [Enlace Presentación final Cecilia Barrán:][<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTjqKapHiQhVDDqCz8HnqmsnXfLZvcVjs9NCaS--8AEjnMAllDbQ8BBlE5T393aCw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>f] 
