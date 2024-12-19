@@ -5,15 +5,15 @@ hide:
 
 # **Entrega Proyecto Final**
 
-## 1. PROCESO para IDEAR y FABRICAR mi PF
+## 1. PROCESO para IDEAR y FABRICAR el Proyecto Final
 
 ![](../images/ProyectoIntegrador/que.jpeg)
 
 ### **¿Qué hace?**
 
-El proyecto busca implementar un sistema de suelo vivo en espacios urbanos, a diferentes escalas pudiendose adaptar en superficies  como cubiertas, fachadas, equipamientos urbanos y vehículos. 
-Es un **contenedor de suelo Vivo acondicionado**, un sistema modular, escalable que incorpora mecanismos de auto-riego y recolección de lluvia con el objetivo de proporcionar superficies que favorecen a la biodiversidad urbana, mejoran la calidad del aire y contribuyen a la mitigación del cambio climático. 
-En un primer abordaje el proyecto se realiza a escala "maceta" y se realizan bosquejos de su posible implantación  en las paradas de omnibus de la Ciudad de Rivera, buscando generar superficies vivas. 
+El proyecto busca implementar un sistema de suelo vivo en espacios urbanos a diferentes escalas, adaptándose a superficies  como cubiertas, fachadas, equipamientos urbanos y vehículos. 
+Es un **contenedor de suelo Vivo acondicionado**, un sistema modular y escalable que incorpora mecanismos de auto-riego y recolección de lluvia con el objetivo de crear superficies que favorezcan a la biodiversidad urbana, mejoren la calidad del aire y contribuyen a la mitigación del cambio climático. 
+En un primer abordaje el proyecto se desarrolla a escala "maceta" y se realizan bosquejos de su posible implantación  en las paradas de omnibus de la Ciudad de Rivera, buscando generar superficies vivas. 
 Mi lucha consiste en visibilizar la importancia que tiene el suelo intrinsecamente e involucrar a la comunidad en el proceso.
 
 ### **¿Cómo llegue a la idea?**
