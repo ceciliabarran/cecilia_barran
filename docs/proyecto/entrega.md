@@ -235,7 +235,8 @@ Mas que un producto es una excusa para crear conciencia ambiental.
 
 ## 2. PRESENTACIÓN FINAL, 5 slides.
 
-[Enlace Presentación final Cecilia Barrán:](https://docs.google.com/presentation/d/1kQ2y0fpqecpEQlJla_X6IUQJuFRPDfngLsWjQ3vbZLY/edit?usp=sharing)
+[Enlace Presentación final Cecilia Barrán:]https://drive.google.com/drive/folders/1CVF5L4O1TQ6hgXzCZCZEy7yhpmeaG8lR?usp=drive_link
+
 
 ## 3. VIDEO, 1 min.
 
