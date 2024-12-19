@@ -243,7 +243,7 @@ Enlace a Diseño del contenedor en fusión 360:
 ## **2. PRESENTACIÓN FINAL, 5 slides:**
 
 
-[Enlace Presentación final Cecilia Barrán:](https://docs.google.com/presentation/d/1yBmt4ILQQ4jrIFuAKHIfpWOAvmuP4XNK/edit?usp=sharing&ouid=112520178824516736932&rtpof=true&sd=true) 
+[Enlace Presentación final Cecilia Barrán:][de<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTjqKapHiQhVDDqCz8HnqmsnXfLZvcVjs9NCaS--8AEjnMAllDbQ8BBlE5T393aCw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>f] 
 
 
 ## **3. VIDEO, 1 minuto:**
@@ -253,3 +253,6 @@ Enlace a Diseño del contenedor en fusión 360:
 
 
 
+
+
+[def]: https://docs.google.com/presentation/d/1yBmt4ILQQ4jrIFuAKHIfpWOAvmuP4XNK/edit?usp=sharing&ouid=112520178824516736932&rtpof=true&sd=true
