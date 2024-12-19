@@ -233,13 +233,17 @@ Mas que un producto es una excusa para crear conciencia ambiental.
 <li> Realizar una interface para leer los valores de humedad. </li> 
 
 
-## 2. ARCHIVOS
+<h2>2. ARCHIVOS</h2>
+
+<p>Descargá los archivos utilizados:</p>
+
+<a href="https://drive.google.com/drive/folders/1vZzw2Zic_T7K80Vp6FcvTrJbyluFCVac?usp=sharing" target="_blank">Enlace a archivos del prototipo</a><br>
+
+<a href="URL_DE_ARDUINO" target="_blank">Enlace a Arduino</a>
 
 
-Descargá los archivos utilizados:
 
 
-[enlace a archivos del prototipo](https://drive.google.com/drive/folders/1vZzw2Zic_T7K80Vp6FcvTrJbyluFCVac?usp=sharing) 
 
 
 
@@ -260,5 +264,3 @@ Descargá los archivos utilizados:
 
 
 
-[def]: https://docs.google.com/presentation/d/1yBmt4ILQQ4jrIFuAKHIfpWOAvmuP4XNK/edit?usp=sharing&ouid=112520178824516736932&rtpof=true&sd=true
-[def2]: https://drive.google.com/drive/u/0/folders/1vZzw2Zic_T7K80Vp6FcvTrJbyluFCVac
