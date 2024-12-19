@@ -14,7 +14,7 @@ hide:
 El proyecto busca implementar un sistema de suelo vivo en espacios urbanos a diferentes escalas, adaptándose a superficies  como cubiertas, fachadas, equipamientos urbanos y vehículos. 
 Es un **contenedor de suelo Vivo acondicionado**, un sistema modular y escalable que incorpora mecanismos de auto-riego y recolección de lluvia con el objetivo de crear superficies que favorezcan a la biodiversidad urbana, mejoren la calidad del aire y contribuyen a la mitigación del cambio climático. 
 En un primer abordaje el proyecto se desarrolla a escala "maceta" y se realizan bosquejos de su posible implantación  en las paradas de omnibus de la Ciudad de Rivera, buscando generar superficies vivas. 
-Mi lucha consiste en visibilizar la importancia que tiene el suelo intrinsecamente e involucrar a la comunidad en el proceso.
+Mi lucha consiste en visibilizar la importancia intrínseca del suelo  e involucrar a la comunidad en el proceso.
 
 ### **¿Cómo llegue a la idea?**
 
