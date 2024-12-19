@@ -239,7 +239,7 @@ Descargá los archivos utilizados:
 
 [enlace a archivos de diseño](https://drive.google.com/drive/folders/1vZzw2Zic_T7K80Vp6FcvTrJbyluFCVac?usp=sharing)
 
-https://drive.google.com/drive/folders/1vZzw2Zic_T7K80Vp6FcvTrJbyluFCVac?usp=sharing
+[enlace a archivos del prototipo](https://drive.google.com/drive/u/0/folders/1vZzw2Zic_T7K80Vp6FcvTrJbyluFCVac)
 
 
 
