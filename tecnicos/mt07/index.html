@@ -352,13 +352,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#desafio-mt06" class="md-nav__link">
-    Desafío MT06
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -623,13 +616,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#desafio-mt06" class="md-nav__link">
-    Desafío MT06
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -718,46 +704,6 @@ Se configura el código html, que será la web visible para el usuario.</p>
 <p>Es importante que la wifi de la placa sea la misma que la wifi de la compu.
 En la web, se abre la siguiente pagina: </p>
 <p><img alt="" src="../../images/MT07/8.png" /></p>
-<p>Una <strong>RED</strong> es un conjunto de ordenadores conectados entre si a través de LINEAS DE COMUNICACIÓN. 
-Los <strong>PROTOCOLOS</strong> son un conjunto de NORMAS sobre formato de mensajes y procedimientos que permiten a máquinas y programas de aplicación intercambiar INFORMACIÓN.</p>
-<p><strong>MQTT</strong> es un protocolo que utiliza un modelo de publicación/ suscripción basado en eventos para poder enviar mensajes a los clientes. </p>
-<p><img alt="" src="../../images/MT06/1.JPG" /> </p>
-<p>La comunicación pasa por un punto central llamado &ldquo;broker&rdquo;, que se encarga de gestionar el envío de mensajes entre emisores y receptores. Cada cliente, al enviar un mensaje, lo hace incluyendo un <em>topic</em> en el mensaje. <strong>Cada cliente que quiere recibir un mensaje se suscribe a un determinado topic del broker</strong> y éste le envía los mensajes correspondientes.</p>
-<p>Broker es un servidos donde se puede publicar mensajes o subscribirte a un tópico.</p>
-<p><img alt="" src="../../images/MT06/2.JPG" /></p>
-<h2 id="desafio-mt06">Desafío MT06<a class="headerlink" href="#desafio-mt06" title="Permanent link">&para;</a></h2>
-<p>Siguiendo el ejercicio realizado en la clase con Jusep, descargué e INSTALÉ la placa ESP32. Para poder programarla es necesario instalarla en Arduino. </p>
-<p><img alt="" src="../../images/MT06/instalandoESP32a.JPG" /></p>
-<p>Video tutorial para instalarla: 
-<a href="https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/">https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/</a></p>
-<p>Copiar el link de la página (definiciones de distintas placas que vamos a poder controlar con Arduino) y lo pegamos en  file, preferences: </p>
-<p><img alt="" src="../../images/MT06/instalandoESP32b.JPG" /></p>
-<p>Segundo paso: Instalar estas placas en Arduino:</p>
-<p>En &ldquo;boards manager&rdquo;, busco ESP32 y elijo la segunda:</p>
-<p><img alt="" src="../../images/MT06/instalandoESP32c.JPG" /></p>
-<p>Luego de unos minutos se instalan todas las placas:</p>
-<p><img alt="" src="../../images/MT06/instalandoESP32d.JPG" /></p>
-<p>En &ldquo;tools&rdquo;, &ldquo;boards&rdquo;, elegimos la más básica: </p>
-<p><img alt="" src="../../images/MT06/instalandoESP32e.JPG" /></p>
-<p>Tercer paso: Instalar las Librerias:
-busco &ldquo;pubsubclient&rdquo;</p>
-<p><img alt="" src="../../images/MT06/instalandoESP32f.JPG" />   </p>
-<p>Estamos prontos para copiar el código del WOKWI del ejercicio y pegarlo en Arduino.  </p>
-<p><img alt="" src="../../images/MT06/W1.JPG" /> </p>
-<p>Compilamos para verificar que el código no tenga errores, demora unos minutos. </p>
-<p><img alt="" src="../../images/MT06/instalandoESP32g.JPG" /> </p>
-<p>Entender el código:</p>
-<p>Al principo dos librerias:</p>
-<p>&ldquo;WiFi.h&rdquo; me permite conectarme a wifi</p>
-<p>&ldquo;PubSubClient.h&rdquo; me permite conectarme a un servidor de mqtt.</p>
-<p>Definir la red y contraseña de wifi.
- Me conecto desde el celu. Busco la Red y la contraseña. </p>
-<p><img alt="" src="../../images/MT06/a1.JPG" /> </p>
-<p>Definir nuestro nombre en mqtt:</p>
-<p><img alt="" src="../../images/MT06/a2.JPG" /> </p>
-<p>Vamos a leer el boton, si el botón está apretado voy a mandar &ldquo;on&rdquo; si el botón no está apretado voy a mandar &ldquo;off&rdquo;, esperamos 1 segundo y volvemos a empezar.</p>
-<p>Error:</p>
-<p><img alt="" src="../../images/MT06/error.JPG" /> </p>
                 
                   
                     
