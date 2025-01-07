@@ -678,13 +678,18 @@
 <p>Existen distintos tipos de interfaces:</p>
 <blockquote>
 <ul>
-<li>Interfaz Gráfica de Usuario (GUI): usa elementos visuales, como íconos, menús y ventanas para permitir que los usuarios interactúen con el sistema. Por ej: computadoras o teléfonos inteligentes.</li>
-<li>Interfaz de línea de comandos (CLI): permite interacuar ingresando comando de textos. Por ej: Linux o en herramientas de programación. Lo realizamos en GIT.</li>
-<li>Interfaz Táctil: usa pantallas táctiles para que el usuario interactue directamente con el dispositivo. Ej: teléfonos móviles y tablets.</li>
-<li>Interfaz de voz: los usuarios interactuan mediante comandos de voz, por ejemplo: Alexa, Google assistant.</li>
+<li><strong>Interfaz Gráfica de Usuario (GUI)</strong>: usa elementos visuales, como íconos, menús y ventanas para permitir que los usuarios interactúen con el sistema. Por ej: computadoras o teléfonos inteligentes.</li>
+<li><strong>Interfaz de línea de comandos (CLI)</strong>: permite interacuar ingresando comando de textos. Por ej: Linux o en herramientas de programación. Lo realizamos en GIT.</li>
+<li><strong>Interfaz Táctil</strong>: usa pantallas táctiles para que el usuario interactue directamente con el dispositivo. Ej: teléfonos móviles y tablets.</li>
+<li><strong>Interfaz de voz</strong>: los usuarios interactuan mediante comandos de voz, por ejemplo: Alexa, Google assistant.</li>
 </ul>
 </blockquote>
 <p>Para diseñar y programar la interficie, necesitamos responer algunas preguntas claves: </p>
+<p>¿Cuál es el objetivo?, ¿De qué manera nos vamos a relacionar con el usuario?,  ¿quién lo va a utilizar? ¿Qué tipo de información vamos a mostrar? si son imágenes, datos, etc. Esta información de dónde viene? de nuestro servidor en una base de datos o proviene de un servicio externo?
+Entender dónde va a estar alojada la información, si la aplicación es local o está en un servidor. Esto influye si queremos que todos tengan acceso o no. 
+¿Qué tipo de interacción queremos tener con el usuario?, si es por voz, por botones, por formularios?</p>
+<p>La interficie forma parte de un sistema, no es solo lo que vemos sino también dónde está, cómo conseguimos la información, qué protocolo de comunicación vamos a utilizar?, dónde está la base de datos?</p>
+<p>Por ejemplo si la información proviene de un sensor, la información pasa a la placa <em>arduino</em> que es el &ldquo;cerebro&rdquo; y se encarga de enviarlo a la interficie, que puede estar alojada en la placa o puede enviarla a un servidor.</p>
 <p>Una <strong>RED</strong> es un conjunto de ordenadores conectados entre si a través de LINEAS DE COMUNICACIÓN. 
 Los <strong>PROTOCOLOS</strong> son un conjunto de NORMAS sobre formato de mensajes y procedimientos que permiten a máquinas y programas de aplicación intercambiar INFORMACIÓN.</p>
 <p><strong>MQTT</strong> es un protocolo que utiliza un modelo de publicación/ suscripción basado en eventos para poder enviar mensajes a los clientes. </p>
