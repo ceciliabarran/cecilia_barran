@@ -703,8 +703,16 @@ En este caso cuando el botón no está apretado, el valor es cero y se pinta el 
 <p>El código en arduino es el siguiente:</p>
 <p><img alt="" src="../../images/MT07/5.png" /></p>
 <p>Librerias, es importante importar la libreria processing.serial.*, para comunicarse con el puerto serie.</p>
-<p><strong>Arduino</strong>, es una plataforma de software y hardware, en este ejemplo la página web está alojada dentro de la placa de arduino:
-<img alt="" src="../../images/MT07/6.png" /></p>
+<p><strong>Arduino</strong>, es una plataforma de software y hardware, en este ejemplo la página web está alojada dentro de la placa de arduino:</p>
+<p><img alt="" src="../../images/MT07/6.png" /></p>
+<p>Con este ejemplo se enciende y se apaga una led desde la web.
+En el código de arduino:
+Se importan las librerias necesarias, de la placa y de la web server,
+Se configura el wifi, 
+En este caso se conecta arduino con la web, mediante &ldquo;WebSocket&rdquo;. En este caso la información no va por serie, como el ejemplo de processing, sino que va por web.
+Se configuran los pins, el led.
+Se configura el código html, que será la web visible para el usuario.</p>
+<p>Se carga el código y lo primero que conecta es la wifi, luego la IP: </p>
 <p>Una <strong>RED</strong> es un conjunto de ordenadores conectados entre si a través de LINEAS DE COMUNICACIÓN. 
 Los <strong>PROTOCOLOS</strong> son un conjunto de NORMAS sobre formato de mensajes y procedimientos que permiten a máquinas y programas de aplicación intercambiar INFORMACIÓN.</p>
 <p><strong>MQTT</strong> es un protocolo que utiliza un modelo de publicación/ suscripción basado en eventos para poder enviar mensajes a los clientes. </p>
