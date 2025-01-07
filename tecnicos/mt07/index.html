@@ -697,8 +697,8 @@ Entender dónde va a estar alojada la información, si la aplicación es local o
 El ejemplo que muestra Xavi es el de una placa que tiene un boton, el cual interactua con la aplicación diseñada con processing. El código está en la placa ESP 32 CON WIFI, la aplicación está hecha en processing, en el código con la función <em>size (200,200)</em> define el tamaño de la interficie. Cuando el botón es accionado el cuadro cambia de color negro a rojo. </p>
 <p><img alt="" src="../../images/MT07/4.png" /></p>
 <p>Este ejemplo lee por serie, el processing se conecta al puerto serie. Tiene que ser el mismo puerto donde tenemos colocado la placa!!.
-Es importante tener en cuenta la velocidad de comunicación entre la placa (arduino) y la compu, tienen que ser la misma. 
-Con la función <strong>read</strong> va a leer el valor que le envía la placa de arduino, en este caso es un valor numérico pero podría ser texto.
+Es importante tener en cuenta la velocidad de comunicación entre la placa (arduino) y la compu, tienen que ser la misma. La velocidad es bits por segundos y se mide en baudios. Si no están a la misma velocidad en el monitor serial no se lee claramente el mensaje, aparecen unos íconos extraños:</p>
+<p>Con la función <strong>read</strong> va a leer el valor que le envía la placa de arduino, en este caso es un valor numérico pero podría ser texto.
 En este caso cuando el botón no está apretado, el valor es cero y se pinta el cuadrado de la interficie de color negro. Si se aprieta el botón cambia de color a rojo (255,0,0) si lo quiero en verde, detengo, cambio el número del color (0,255,0) y vuelvo a cargar.</p>
 <p>El código en arduino es el siguiente:</p>
 <p><img alt="" src="../../images/MT07/5.png" /></p>
@@ -708,8 +708,8 @@ En este caso cuando el botón no está apretado, el valor es cero y se pinta el 
 <p>Con este ejemplo se enciende y se apaga una led desde la web.
 En el código de arduino:
 Se importan las librerias necesarias, de la placa y de la web server,
-Se configura el wifi, 
-En este caso se conecta arduino con la web, mediante &ldquo;WebSocket&rdquo;. En este caso la información no va por serie, como el ejemplo de processing, sino que va por web.
+Se configura el wifi, es una red local.
+En este caso se conecta arduino con la web, mediante &ldquo;ESP WebSocket Server&rdquo;. En este caso la información no va por serie, como el ejemplo de processing, sino que va por web. Es importante configurar la placa como un servidor.
 Se configuran los pins, el led.
 Se configura el código html, que será la web visible para el usuario.</p>
 <p>Se carga el código y lo primero que conecta es la wifi, luego la IP: </p>
