@@ -691,11 +691,15 @@ Entender dónde va a estar alojada la información, si la aplicación es local o
 <p>La interficie forma parte de un sistema, no es solo lo que vemos sino también dónde está, cómo conseguimos la información, qué protocolo de comunicación vamos a utilizar?, dónde está la base de datos?</p>
 <p>Por ejemplo si la información proviene de un sensor, la información pasa a la placa <em>arduino</em> que es el &ldquo;cerebro&rdquo; y se encarga de enviarlo a la interficie, que puede estar alojada en la placa o puede enviarla a un servidor.</p>
 <p>Mediante ejemplos prácticos, entendimos el lenguaje de programación:</p>
-<p><strong>processing</strong>, proviene de java, es un lenguaje de programación sencillo que permite a través de código, realizar interficies a partir de gráficos.</p>
+<p><strong>Processing</strong>, proviene de java, es un lenguaje de programación sencillo que permite a través de código, realizar interficies a partir de gráficos.</p>
 <p><img alt="" src="../../images/MT07/3.png" /></p>
 <p>La estructura es similar a la de arduino, tiene una función <strong>setup</strong>, que es la configuración de la aplicación y una función que se llama <strong>draw</strong> que se ejecuta todo el rato en mi programa y va leyendo. 
 El ejemplo que muestra Xavi es el de una placa que tiene un boton, el cual interactua con la aplicación diseñada con processing. El código está en la placa ESP 32 CON WIFI, la aplicación está hecha en processing, en el código con la función <em>size (200,200)</em> define el tamaño de la interficie. Cuando el botón es accionado el cuadro cambia de color negro a rojo. </p>
 <p><img alt="" src="../../images/MT07/4.png" /></p>
+<p>Este ejemplo lee por serie, el processing se conecta al puerto serie. Tiene que ser el mismo puerto donde tenemos colocado la placa!!.
+Es importante tener en cuenta la velocidad de comunicación entre la placa (arduino) y la compu, tienen que ser la misma. 
+Con la función <strong>read</strong> va a leer el valor que le envía la placa de arduino, en este caso es un valor numérico pero podría ser texto.
+En este caso cuando el botón no está apretado, el valor es cero y se pinta el cuadrado de la interficie de color negro. Si se aprieta el botón cambia de color a rojo (255,0,0) si lo quiero en verde, detengo, cambio el número del color (0,255,0) y vuelvo a cargar.</p>
 <p>Una <strong>RED</strong> es un conjunto de ordenadores conectados entre si a través de LINEAS DE COMUNICACIÓN. 
 Los <strong>PROTOCOLOS</strong> son un conjunto de NORMAS sobre formato de mensajes y procedimientos que permiten a máquinas y programas de aplicación intercambiar INFORMACIÓN.</p>
 <p><strong>MQTT</strong> es un protocolo que utiliza un modelo de publicación/ suscripción basado en eventos para poder enviar mensajes a los clientes. </p>
