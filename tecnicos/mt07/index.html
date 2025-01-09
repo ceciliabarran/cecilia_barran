@@ -726,9 +726,14 @@ En la web, se abre la siguiente pagina: </p>
 <ul>
 <li>Objetivo: leer y graficar la humedad del suelo de una maceta.  </li>
 <li>La información proviene de un sensor de humedad instalado en la maceta y programado con arduino.</li>
-<li>El dato que vamos a recibir es un valor que puede ir de 0 a 1023. Definimos el valor 0 cuando el sustrato está  </li>
+<li>El dato que vamos a recibir es un valor que puede ir de 0 a 1023. Definimos el valor 0 cuando el sustrato está húmeda, y 1023 cuando el sustrato está seco.</li>
+<li>La interficie es una gráfica de este valor en función del tiempo. </li>
+<li>La información es local.</li>
 </ul>
 </blockquote>
+<p>El sensor está vinculado a un sistema de auto riego, con el objetivo de disminuir el estres hídrico que sufre la planta cuando no la riego. 
+Quiero saber cada cuánto tiempo se activa el auto riego. </p>
+<p>Mediante processing, leeremos a través del puerto serie los datos obtenidos.</p>
                 
                   
                     
